@@ -1,0 +1,78 @@
+@import "../config/globalcolors";
+
+.App {
+  text-align: center;
+  background-color: $background-gray;
+  height: 100vh;
+}
+
+.table {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  max-width: 1300px;
+  margin: 0 auto;
+}
+
+.element {
+  margin: 1px;
+  height: 70px;
+  width: 70px;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+
+  .atomic-number {
+    text-align: left;
+    padding: 5px;
+    font-size: 18px;
+  }
+
+  abbr {
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 0.3;
+  }
+}
+
+.blank {
+  background-color: transparent;
+}
+
+.blank-half {
+  background-color: transparent;
+  height: 35px;
+  width: 35px;
+}
+
+.polyatomic-nonmetal {
+  background-color: $element-green;
+}
+
+.alkaline-earth {
+  background-color: $element-yellow;
+}
+
+.alkali-metal {
+  background-color: $element-orange;
+}
+
+.transition-metal {
+  background-color: $element-red;
+}
+
+.lanthanide {
+  background-color: $element-salmon;
+}
+
+.actinide {
+  background-color: $element-pink;
+}
