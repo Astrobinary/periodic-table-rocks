@@ -23,23 +23,23 @@
 }
 
 .element {
-  margin: 1px;
+  margin: 0.5px;
   height: 70px;
   width: 70px;
   align-items: center;
   justify-content: center;
-  background-color: black;
+  background-color: $background-gray;
 
   .atomic-number {
-    text-align: left;
-    padding: 5px;
+    padding: 7px;
     font-size: 18px;
   }
 
   abbr {
     font-weight: bold;
-    font-size: 36px;
-    line-height: 0.3;
+    font-size: 34px;
+    line-height: 0.5;
+    color: $background-gray;
   }
 }
 
@@ -53,26 +53,74 @@
   width: 35px;
 }
 
-.polyatomic-nonmetal {
+.nonmetal {
   background-color: $element-green;
+
+  &:hover {
+    background-color: lighten($element-green, 10%);
+    cursor: pointer;
+  }
 }
 
 .alkaline-earth {
   background-color: $element-yellow;
+
+  &:hover {
+    background-color: lighten($element-yellow, 10%);
+    cursor: pointer;
+  }
 }
 
 .alkali-metal {
   background-color: $element-orange;
+
+  &:hover {
+    background-color: lighten($element-orange, 10%);
+    cursor: pointer;
+  }
 }
 
 .transition-metal {
   background-color: $element-red;
+
+  &:hover {
+    background-color: lighten($element-red, 10%);
+    cursor: pointer;
+  }
 }
 
 .lanthanide {
   background-color: $element-salmon;
+
+  &:hover {
+    background-color: lighten($element-salmon, 10%);
+    cursor: pointer;
+  }
 }
 
 .actinide {
   background-color: $element-pink;
+
+  &:hover {
+    background-color: lighten($element-pink, 10%);
+    cursor: pointer;
+  }
+}
+
+.post-transition-metal {
+  background-color: $element-blue;
+
+  &:hover {
+    background-color: lighten($element-blue, 10%);
+    cursor: pointer;
+  }
+}
+
+.noble-gas {
+  background-color: $element-purple;
+
+  &:hover {
+    background-color: lighten($element-purple, 10%);
+    cursor: pointer;
+  }
 }

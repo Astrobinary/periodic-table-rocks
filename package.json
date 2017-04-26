@@ -5,6 +5,8 @@
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
   },
+
+  "homepage": "https://agnostics.github.io/periodic-table-rocks/",
   "devDependencies": {
     "node-sass": "^4.5.2",
     "sass-loader": "^6.0.3",
