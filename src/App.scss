@@ -29,6 +29,7 @@
   align-items: center;
   justify-content: center;
   background-color: $background-gray;
+  color: $background-gray;
 
   .atomic-number {
     padding: 7px;
@@ -39,7 +40,6 @@
     font-weight: bold;
     font-size: 34px;
     line-height: 0.5;
-    color: $background-gray;
   }
 }
 
