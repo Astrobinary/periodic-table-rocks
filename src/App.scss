@@ -1,134 +1,154 @@
 @import "../config/globalcolors";
 
 .App {
-    text-align: center;
-    background-color: $background-gray;
-    height: 100vh;
-    overflow: hidden;
+  text-align: center;
+  background-color: $background-gray;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.logo {
+  width: 225px;
+  margin-left: -32px;
+  margin-top: -4px;
 }
 
 .table {
-    position: relative;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .row {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: center;
-    max-width: 1300px;
-    margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  max-width: 1300px;
+  margin: 0 auto;
 }
 
-.top-info-box {
-    width: 600px;
-    margin: 0 5px;
-    height: 115px;
-    background-color: red;
+.info-box {
+  width: 690px;
+  margin: 0 10px;
+  height: 130px;
+}
+
+.details {
+  display: none;
+  background-color: $element-green;
+}
+
+.settings {
+  color: rgba(white, 0.5);
+  line-height: 232px;
+  font-style: italic;
+  letter-spacing: 1px;
 }
 
 .element {
-    margin: 0.5px;
-    height: 60px;
-    width: 60px;
-    align-items: center;
-    justify-content: center;
-    background-color: $background-gray;
-    color: $background-gray;
+  margin: 0.5px;
+  height: 70px;
+  width: 70px;
+  align-items: center;
+  justify-content: center;
+  //background-color: $background-gray;
+  color: $background-gray;
 
-    .atomic-number {
-        padding: 7px;
-        font-size: 18px;
-    }
+  .atomic-number {
+    padding: 7px;
+    font-size: 18px;
+    background-color: inherit;
+    pointer-events: none;
+  }
 
-    abbr {
-        font-weight: bold;
-        font-size: 34px;
-        line-height: 0.5;
-    }
+  abbr {
+    font-weight: bold;
+    font-size: 34px;
+    line-height: 0.5;
+    background-color: inherit;
+  }
 }
 
 .blank {
-    background-color: transparent;
+//  background-color: transparent;
 }
 
 .blank-half {
-    background-color: transparent;
-    height: 35px;
-    width: 35px;
+  background-color: transparent;
+  height: 35px;
+  width: 35px;
 }
 
 .nonmetal {
-    background-color: $element-green;
+  background-color: $element-green;
 
-    &:hover {
-        background-color: lighten($element-green, 10%);
-        cursor: pointer;
-    }
+  &:hover {
+    background-color: lighten($element-green, 10%);
+    cursor: pointer;
+  }
 }
 
 .alkaline-earth {
-    background-color: $element-yellow;
+  background-color: $element-yellow;
 
-    &:hover {
-        background-color: lighten($element-yellow, 10%);
-        cursor: pointer;
-    }
+  &:hover {
+    background-color: lighten($element-yellow, 10%);
+    cursor: pointer;
+  }
 }
 
 .alkali-metal {
-    background-color: $element-orange;
+  background-color: $element-orange;
 
-    &:hover {
-        background-color: lighten($element-orange, 10%);
-        cursor: pointer;
-    }
+  &:hover {
+    background-color: lighten($element-orange, 10%);
+    cursor: pointer;
+  }
 }
 
 .transition-metal {
-    background-color: $element-red;
+  background-color: $element-red;
 
-    &:hover {
-        background-color: lighten($element-red, 10%);
-        cursor: pointer;
-    }
+  &:hover {
+    background-color: lighten($element-red, 10%);
+    cursor: pointer;
+  }
 }
 
 .lanthanide {
-    background-color: $element-salmon;
+  background-color: $element-salmon;
 
-    &:hover {
-        background-color: lighten($element-salmon, 10%);
-        cursor: pointer;
-    }
+  &:hover {
+    background-color: lighten($element-salmon, 10%);
+    cursor: pointer;
+  }
 }
 
 .actinide {
-    background-color: $element-pink;
+  background-color: $element-pink;
 
-    &:hover {
-        background-color: lighten($element-pink, 10%);
-        cursor: pointer;
-    }
+  &:hover {
+    background-color: lighten($element-pink, 10%);
+    cursor: pointer;
+  }
 }
 
 .post-transition-metal {
-    background-color: $element-blue;
+  background-color: $element-blue;
 
-    &:hover {
-        background-color: lighten($element-blue, 10%);
-        cursor: pointer;
-    }
+  &:hover {
+    background-color: lighten($element-blue, 10%);
+    cursor: pointer;
+  }
 }
 
 .noble-gas {
-    background-color: $element-purple;
+  background-color: $element-purple;
 
-    &:hover {
-        background-color: lighten($element-purple, 10%);
-        cursor: pointer;
-    }
+  &:hover {
+    background-color: lighten($element-purple, 10%);
+    cursor: pointer;
+  }
 }
