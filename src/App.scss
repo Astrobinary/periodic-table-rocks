@@ -29,10 +29,89 @@
   margin: 0 auto;
 }
 
+.top {
+  z-index: 100;
+}
+
 .info-box {
   width: 690px;
   margin: 0 10px;
   height: 130px;
+  overflow: hidden;
+
+  .element-badge {
+    width: 40%;
+    height: 100%;
+    position: relative;
+    display: inline-block;
+
+    .atomic-display {
+      font-size: 117px;
+      font-weight: bold;
+      color: rgba($background-gray, 0.1);
+      position: absolute;
+      margin: 0 auto;
+      left: 0;
+      right: 0;
+    }
+
+    .name-display {
+      color: $background-gray;
+      font-weight: bold;
+      font-size: 35px;
+      text-align: center;
+      letter-spacing: 1px;
+      padding-top: 28px;
+
+      &:first-letter {
+        font-size: 50px;
+      }
+    }
+
+    .type-display {
+      font-size: 21px;
+      margin-top: -10px;
+      text-transform: lowercase;
+      display: inline-block;
+    }
+  }
+
+  .info-badge {
+    width: 60%;
+    display: inline-block;
+    margin-top: 25px;
+    padding-right: 10px;
+
+    .atomic-weight,
+    .boiling-point,
+    .melting-point {
+      display: inline-block;
+
+      img {
+        height: 50px;
+        text-align: center;
+      }
+
+      div {
+        width: 100px;
+        margin-top: 10px;
+        text-align: center;
+      }
+    }
+
+    .density {
+      display: inline-block;
+
+      img {
+        height: 50px;
+        text-align: center;
+      }
+
+      div {
+        width: 100px;
+      }
+    }
+  }
 }
 
 .details {
@@ -48,18 +127,17 @@
 }
 
 .element {
-  margin: 0.5px;
+  margin: 1px;
   height: 70px;
   width: 70px;
   align-items: center;
   justify-content: center;
-  //background-color: $background-gray;
   color: $background-gray;
 
   .atomic-number {
     padding: 7px;
     font-size: 18px;
-    background-color: inherit;
+    background-color: none;
     pointer-events: none;
   }
 
@@ -68,11 +146,12 @@
     font-size: 34px;
     line-height: 0.5;
     background-color: inherit;
+    pointer-events: none;
   }
 }
 
 .blank {
-//  background-color: transparent;
+  //  background-color: transparent;
 }
 
 .blank-half {
@@ -85,7 +164,7 @@
   background-color: $element-green;
 
   &:hover {
-    background-color: lighten($element-green, 10%);
+    box-shadow: inset 0 0 0 5px lighten($element-green, 15%);
     cursor: pointer;
   }
 }
@@ -94,7 +173,7 @@
   background-color: $element-yellow;
 
   &:hover {
-    background-color: lighten($element-yellow, 10%);
+    box-shadow: inset 0 0 0 5px lighten($element-yellow, 15%);
     cursor: pointer;
   }
 }
@@ -103,7 +182,7 @@
   background-color: $element-orange;
 
   &:hover {
-    background-color: lighten($element-orange, 10%);
+    box-shadow: inset 0 0 0 5px lighten($element-orange, 15%);
     cursor: pointer;
   }
 }
@@ -112,7 +191,7 @@
   background-color: $element-red;
 
   &:hover {
-    background-color: lighten($element-red, 10%);
+    box-shadow: inset 0 0 0 5px lighten($element-red, 15%);
     cursor: pointer;
   }
 }
@@ -121,7 +200,7 @@
   background-color: $element-salmon;
 
   &:hover {
-    background-color: lighten($element-salmon, 10%);
+    box-shadow: inset 0 0 0 5px lighten($element-salmon, 15%);
     cursor: pointer;
   }
 }
@@ -130,7 +209,7 @@
   background-color: $element-pink;
 
   &:hover {
-    background-color: lighten($element-pink, 10%);
+    box-shadow: inset 0 0 0 5px lighten($element-pink, 15%);
     cursor: pointer;
   }
 }
@@ -139,7 +218,7 @@
   background-color: $element-blue;
 
   &:hover {
-    background-color: lighten($element-blue, 10%);
+    box-shadow: inset 0 0 0 5px lighten($element-blue, 15%);
     cursor: pointer;
   }
 }
@@ -148,7 +227,7 @@
   background-color: $element-purple;
 
   &:hover {
-    background-color: lighten($element-purple, 10%);
+    box-shadow: inset 0 0 0 5px lighten($element-purple, 15%);
     cursor: pointer;
   }
 }

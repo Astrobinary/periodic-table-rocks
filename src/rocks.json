@@ -1,0 +1,3185 @@
+{
+  "1": {
+    "atomic-number": 1,
+    "atomic-weight": 1.01,
+    "name": "Hydrogen",
+    "abbr": "H",
+    "type": "Diatomic nonmetal",
+    "stats": {
+      "melting": 14,
+      "boiling": 20,
+      "density": 0.09
+    },
+    "electron-ionisations": {
+      "configuration": "1s1",
+      "per-shell": "1",
+      "oxidation-states": "1, +1",
+      "ionisations": {
+        "first": 1312
+      }
+    },
+    "history": {
+      "year": 1766,
+      "person": "Henry Cavendish",
+      "brief": "Although hydrogen was prepared many years earlier, it was first recognized as a substance distinct from other flammable gases in 1766 by Henry Cavendish, who is credited with its discovery; it was named by A. L. Lavoisier in 1783."
+    }
+  },
+  "2": {
+    "atomic-number": 2,
+    "atomic-weight": 4,
+    "name": "Helium",
+    "abbr": "He",
+    "type": "Noble Gas",
+    "stats": {
+      "melting": 1,
+      "boiling": 4,
+      "density": 0.179
+    },
+    "electron-ionisations": {
+      "configuration": "1s2",
+      "per-shell": "2",
+      "oxidation-states": 0,
+      "ionisations": {
+        "first": 2372.3,
+        "second": 5250.5
+      }
+    },
+    "history": {
+      "year": 1766,
+      "person": "Henry Cavendish",
+      "brief": "Although hydrogen was prepared many years earlier, it was first recognized as a substance distinct from other flammable gases in 1766 by Henry Cavendish, who is credited with its discovery; it was named by A. L. Lavoisier in 1783."
+    }
+  },
+  "3": {
+    "atomic-number": 3,
+    "atomic-weight": 6.94,
+    "name": "Lithium",
+    "abbr": "Li",
+    "type": "Alkali Metal",
+    "stats": {
+      "melting": 454,
+      "boiling": 1603,
+      "density": 0.534
+    },
+    "electron-ionisations": {
+      "configuration": "[He] 2s1",
+      "per-shell": "2, 1",
+      "oxidation-states": "+1",
+      "ionisations": {
+        "first": 520.2,
+        "second": 7298.1,
+        "third": 11
+      }
+    },
+    "history": {
+      "year": 1817,
+      "person": "Johan Arfvedson",
+      "brief": "Lithium was discovered by Johan August Arfvedson in 1817 during an analysis of petalite ore, an ore now recognised to be LiAl(Si2O5)2, taken from the Swedish island of Utš. Arfvedson subsequently discovered lithium in the minerals spodumene and lepidolite. C.G. Gmelin observed in 1818 that lithium salts colour flames bright red."
+    }
+  },
+  "4": {
+    "atomic-number": 4,
+    "atomic-weight": 9.01,
+    "name": "Beryllium",
+    "abbr": "Be",
+    "type": "Alkali Earth Metal",
+    "stats": {
+      "melting": 1560,
+      "boiling": 2742,
+      "density": 1.85
+    },
+    "electron-ionisations": {
+      "configuration": "[He] 2s2",
+      "per-shell": "2, 2",
+      "oxidation-states": "+2, +1",
+      "ionisations": {
+        "first": 899.5,
+        "second": 1757.1,
+        "third": 14
+      }
+    },
+    "history": {
+      "year": 1798,
+      "person": "M.L. Vauquelin",
+      "brief": "The element was recognised by M.-L. Vauquelin in 1798 in beryl and emeralds. The metal was isolated much later on in 1828 by Friederich Wšhler (and independently by A.-A.B. Bussy) by the action of potassium on BeCl2 in a platinum crucible. Beryl were both known to early Egyptians but it was not realised until the end of the 18th century."
+    }
+  },
+  "5": {
+    "atomic-number": 5,
+    "atomic-weight": 10.81,
+    "name": "Boron",
+    "abbr": "B",
+    "type": "Metalloid",
+    "stats": {
+      "melting": 2349,
+      "boiling": 4200,
+      "density": 2.08
+    },
+    "electron-ionisations": {
+      "configuration": "[He] 2s2 2p1",
+      "per-shell": "2, 3",
+      "oxidation-states": "3, 2, 1, 1, 5",
+      "ionisations": {
+        "first": 800.6,
+        "second": 2427.1,
+        "third": 3659.7
+      }
+    },
+    "history": {
+      "year": 1807,
+      "person": "Sir Humphry Davy",
+      "brief": "Boron was first isolated in England in 1807 by Sir Humphry Davy and then in France in 1808 by Joseph Louis Gay-Lussac and Louis Jacques ThŽnard. It occurs also in the mineral. Boron does not occur free in nature. Large deposits of borax, kermite, colemanite, and other boron minerals are found in the arid regions of the United States."
+    }
+  },
+  "6": {
+    "atomic-number": 6,
+    "atomic-weight": 12.01,
+    "name": "Carbon",
+    "abbr": "C",
+    "type": "Polyatomic Nonmetal",
+    "stats": {
+      "melting": 4098,
+      "boiling": 4098,
+      "density": 2.267
+    },
+    "electron-ionisations": {
+      "configuration": "[He] 2s2 2p2",
+      "per-shell": "2, 4",
+      "oxidation-states": "+4, +3, +2, +1, 0, 1, 2, 3, 4",
+      "ionisations": {
+        "first": 1086.5,
+        "second": 2352.6,
+        "third": 4620.5
+      }
+    },
+    "history": {
+      "year": 3750,
+      "person": "Unknown",
+      "brief": "Carbon as charcoal, soot and coal has been used since prehistoric times. Carbon as diamond has also been known since very ancient times. The recognition that soot (amorphous carbon), graphite (another form of carbon) and diamond are all forms of carbon."
+    }
+  },
+  "7": {
+    "atomic-number": 7,
+    "atomic-weight": 14.01,
+    "name": "Nitrogen",
+    "abbr": "N",
+    "type": "Diatomic Nonmetal",
+    "stats": {
+      "melting": 63,
+      "boiling": 77,
+      "density": 1.251
+    },
+    "electron-ionisations": {
+      "configuration": "[He] 2s2 2p3",
+      "per-shell": "2, 5",
+      "oxidation-states": "5, 4, 3, 2, 1, 1, 2, 3",
+      "ionisations": {
+        "first": 1402.3,
+        "second": 2856,
+        "third": 4578.1
+      }
+    },
+    "history": {
+      "year": 1772,
+      "person": "Daniel Rutherford",
+      "brief": "It was known during the 18th century that air contains at least two gases, one of which is oxygen which supports combustion and life, and the other was nitrogen which does not. Nitrogen was discovered by Daniel Rutherford in 1772, who called it noxious air."
+    }
+  },
+  "8": {
+    "atomic-number": 8,
+    "atomic-weight": 16,
+    "name": "Oxygen",
+    "abbr": "O",
+    "type": "Diatomic Nonmetal",
+    "stats": {
+      "melting": 54,
+      "boiling": 90,
+      "density": 1.429
+    },
+    "electron-ionisations": {
+      "configuration": "[He] 2s2 2p4",
+      "per-shell": "2, 6",
+      "oxidation-states": "2, 1, 1, 2",
+      "ionisations": {
+        "first": 1313.9,
+        "second": 3388.3,
+        "third": 5300.5
+      }
+    },
+    "history": {
+      "year": 1774,
+      "person": "Joseph Priestly",
+      "brief": "Leonardo da Vinci suggested that air consists of at least two different gases and of these one of the gas supported flames and life. Oxygen was prepared by several workers before 1772 but these workers did not recognize it as an element. Joseph Priestley is generally credited with its discovery (who made oxygen by heating lead or mercury oxides)."
+    }
+  },
+  "9": {
+    "atomic-number": 9,
+    "atomic-weight": 19,
+    "name": "Fluorine",
+    "abbr": "F",
+    "type": "Diatomic Nonmetal",
+    "stats": {
+      "melting": 53,
+      "boiling": 85,
+      "density": 1.696
+    },
+    "electron-ionisations": {
+      "configuration": "[He] 2s2 2p5",
+      "per-shell": "2, 7",
+      "oxidation-states": 1,
+      "ionisations": {
+        "first": 1681,
+        "second": 3374.2,
+        "third": 6050.4
+      }
+    },
+    "history": {
+      "year": 1670,
+      "person": "George Gore",
+      "brief": "In 1670 a recipe containing calcium fluoride, CaF2 was used to etch glass. It seems that George Gore made a little fluorine through an electrolytic process but his apparatus exploded when the fluorine produced reacted with hydrogen from the other electrode. The element finally was isolated in 1886 by Ferdinand Frederic Henri Moisson."
+    }
+  },
+  "10": {
+    "atomic-number": 10,
+    "atomic-weight": 20.18,
+    "name": "Neon",
+    "abbr": "N",
+    "type": "Noble Gas",
+    "stats": {
+      "melting": 25,
+      "boiling": 27,
+      "density": 0.9
+    },
+    "electron-ionisations": {
+      "configuration": "[He] 2s2 2p6",
+      "per-shell": "2, 8",
+      "oxidation-states": 0,
+      "ionisations": {
+        "first": 2080.7,
+        "second": 3952.3,
+        "third": 6122
+      }
+    },
+    "history": {
+      "year": 1898,
+      "person": "Sir William Ramsay, Morris Travers",
+      "brief": "Neon was discovered by Sir William Ramsay and Morris Travers in 1898 very shortly after their discovery of the element krypton. Both elements were discovered through work on liquid air."
+    }
+  },
+  "11": {
+    "atomic-number": 11,
+    "atomic-weight": 22.99,
+    "name": "Sodium",
+    "abbr": "Na",
+    "type": "Alkali Metal",
+    "stats": {
+      "melting": 371,
+      "boiling": 1156,
+      "density": 0.968
+    },
+    "electron-ionisations": {
+      "configuration": "[Ne] 3s1",
+      "per-shell": "2, 8, 1",
+      "oxidation-states": "+1, 1",
+      "ionisations": {
+        "first": 495.8,
+        "second": 4562,
+        "third": 6910.3
+      }
+    },
+    "history": {
+      "year": 1807,
+      "person": "Sir Humphry Davy",
+      "brief": "Until the 18th century no distinction was made between potassium and sodium. Sodium was first isolated in 1807 by Sir Humphry Davy, who made it by the electrolysis of very dry molten sodium hydroxide, NaOH. Sodium was collected at the cathode. Shortly after Gay-Lussac isolated sodium by reducing caustic soda with iron metal at high temperatures."
+    }
+  },
+  "12": {
+    "atomic-number": 12,
+    "atomic-weight": 24.31,
+    "name": "Magnesium",
+    "abbr": "Mg",
+    "type": "Alkali Earth Metal",
+    "stats": {
+      "melting": 923,
+      "boiling": 1363,
+      "density": 1.738
+    },
+    "electron-ionisations": {
+      "configuration": "[Ne] 3s2",
+      "per-shell": "2, 8, 2",
+      "oxidation-states": "+2, +1",
+      "ionisations": {
+        "first": 737.7,
+        "second": 1450.7,
+        "third": 7732.7
+      }
+    },
+    "history": {
+      "year": 1808,
+      "person": "Sir Humphry Davy",
+      "brief": "In 1808, Sir Humphry Davy discovered magnesium in its oxide, although it is not certain that he isolated the metal. Pure magnesium was isolated substantially by A. A. B. Bussy in 1828 by chemical reduction of the chloride. Magnesium was first isolated electrolytically by Michael Faraday in 1833."
+    }
+  },
+  "13": {
+    "atomic-number": 13,
+    "atomic-weight": 26.98,
+    "name": "Aluminium",
+    "abbr": "Al",
+    "type": "Post-Transition Metal",
+    "stats": {
+      "melting": 933,
+      "boiling": 2743,
+      "density": 2.7
+    },
+    "electron-ionisations": {
+      "configuration": "[Ne] 3s2 3p1",
+      "per-shell": "2, 8, 3",
+      "oxidation-states": "+3, +2, +1, 1, 2",
+      "ionisations": {
+        "first": 577.5,
+        "second": 1816.7,
+        "third": 2744.8
+      }
+    },
+    "history": {
+      "year": 1825,
+      "person": "Sir Humphry Davy",
+      "brief": "The ancient Greeks and Romans used alum in medicine as an astringent, and in dyeing processes. In 1761 de Morveau proposed the name \"alumine\" for the base in alum. In 1807, Davy proposed the name alumium for the metal, undiscovered at that time, and later agreed to change it to aluminum."
+    }
+  },
+  "14": {
+    "atomic-number": 14,
+    "atomic-weight": 28.09,
+    "name": "Silicon",
+    "abbr": "Si",
+    "type": "Metalloid",
+    "stats": {
+      "melting": 1687,
+      "boiling": 3538,
+      "density": 2.329
+    },
+    "electron-ionisations": {
+      "configuration": "[Ne] 3s2 3p2",
+      "per-shell": " 2, 8, 4",
+      "oxidation-states": "4, 3, 2, 1 1, 2, 3, 4",
+      "ionisations": {
+        "first": 786.5,
+        "second": 1577.1,
+        "third": 3231.6
+      }
+    },
+    "history": {
+      "year": 1854,
+      "person": "Jöns Jacob Berzelius",
+      "brief": "Jöns Jacob Berzelius is generally credited with the discovery of silicon in 1824. Deville prepared crystalline silicon in 1854, a second allotropic form of the element."
+    }
+  },
+  "15": {
+    "atomic-number": 15,
+    "atomic-weight": 30.97,
+    "name": "Phosphorus",
+    "abbr": "P",
+    "type": "Polyatomic Nonmetal",
+    "stats": {
+      "melting": 317.3,
+      "boiling": 553.65,
+      "density": 1.82
+    },
+    "electron-ionisations": {
+      "configuration": "[Ne] 3s23p3 ",
+      "per-shell": "2, 8, 5",
+      "oxidation-states": "5, 4, 3, 2, 1, 1, 2, 3",
+      "ionisations": {
+        "first": 1011.8,
+        "second": 1907,
+        "third": 2914.1
+      }
+    },
+    "history": {
+      "year": 1669,
+      "person": "Hennig Brand",
+      "brief": "Phosphorus was first made by Hennig Brandt at Hamburg in 1669 when he evaporated urine and heated the residue until it was red hot, whereupon phosphorus vapour distilled which he collected by condensing it in water. Brandt kept his discovery secret, thinking he had discovered the Philosopher’s Stone that could turn base metals into gold"
+    }
+  },
+  "16": {
+    "atomic-number": 16,
+    "atomic-weight": 32.07,
+    "name": "Sulphur",
+    "abbr": "S",
+    "type": "Polyatomic Nonmetal",
+    "stats": {
+      "melting": 388,
+      "boiling": 718,
+      "density": 2.07
+    },
+    "electron-ionisations": {
+      "configuration": "[Ne] 3s23p4 ",
+      "per-shell": "2, 8, 6",
+      "oxidation-states": "6, 5, 4, 3, 2, 1, 1, 2",
+      "ionisations": {
+        "first": 999.6,
+        "second": 2252,
+        "third": 3357
+      }
+    },
+    "history": {
+      "year": "2000 BC",
+      "person": "Antoine-Laurent de Lavoisier",
+      "brief": "Sulfur is mentioned 15 times in the Bible, and was best known for destroying Sodom and Gomorrah. It was also known to the ancient Greeks, and burnt as a fumigant. Sulfur was mined near Mount Etna in Sicily and used for bleaching cloth and preserving wine, both of which involved burning it to form sulfur dioxide, and allowing this to be absorbed by wet clothes or the grape juice. "
+    }
+  },
+  "17": {
+    "atomic-number": 17,
+    "atomic-weight": 35.45,
+    "name": "Chlorine",
+    "abbr": "Cl",
+    "type": "Diatomic Nonmetal",
+    "stats": {
+      "melting": 172,
+      "boiling": 239,
+      "density": 3.2
+    },
+    "electron-ionisations": {
+      "configuration": "[Ne] 3s2 3p5",
+      "per-shell": "2, 8, 7",
+      "oxidation-states": " 7, 6, 5, 4, 3, 2, 1, 1",
+      "ionisations": {
+        "first": 1251.2,
+        "second": 2298,
+        "third": 3822
+      }
+    },
+    "history": {
+      "year": 1774,
+      "person": "Carl Wilhelm Scheele",
+      "brief": "Hydrochloric acid (HCl) was known to the alchemists. The gaseous element itself was first produced in 1774 by Carl Wilhelm Scheele at Uppsala, Sweden, by heating hydrochloric acid with the mineral pyrolusite which is naturally occuring manganese dioxide, MnO2. A dense, greenish-yellow gas was evolved which he recorded as having a choking smell and which dissolved in water to give an acid solution. He noted that it bleached litmus paper, and decolourised leaves and flowers.\n"
+    }
+  },
+  "18": {
+    "atomic-number": 18,
+    "atomic-weight": 39.95,
+    "name": "Argon",
+    "abbr": "Ar",
+    "type": "Noble Gas",
+    "stats": {
+      "melting": 84,
+      "boiling": 87,
+      "density": 1.784
+    },
+    "electron-ionisations": {
+      "configuration": "[Ne] 3s23p6 ",
+      "per-shell": "2, 8, 8",
+      "oxidation-states": 0,
+      "ionisations": {
+        "first": 1520.6,
+        "second": 2665.8,
+        "third": 3931
+      }
+    },
+    "history": {
+      "year": 1894,
+      "person": "Lord Rayleigh, Sir William Ramsay",
+      "brief": "Although argon is abundant in the Earth’s atmosphere, it evaded discovery until 1894 when Lord Rayleigh and William Ramsay first separated it from liquid air. In fact the gas had been isolated in 1785 by Henry Cavendish who had noted that about 1% of air would not react even under the most extreme conditions. That 1% was argon."
+    }
+  },
+  "19": {
+    "atomic-number": 19,
+    "atomic-weight": 39.95,
+    "name": "Potassium",
+    "abbr": "K",
+    "type": "Alkali Metal",
+    "stats": {
+      "melting": 337,
+      "boiling": 1032,
+      "density": 0.89
+    },
+    "electron-ionisations": {
+      "configuration": "[Ar] 4s1",
+      "per-shell": "2, 8, 8, 1",
+      "oxidation-states": "+1, 1",
+      "ionisations": {
+        "first": 418.8,
+        "second": 3052,
+        "third": 4420
+      }
+    },
+    "history": {
+      "year": 1807,
+      "person": "Humphry Davy ",
+      "brief": "Potassium was discovered in 1807 by Humphry Davy, who decomposed potash with an electric current. Potassium was the first metal so discovered; Davy discovered sodium a few days later by a similar experiment."
+    }
+  },
+  "20": {
+    "atomic-number": 20,
+    "atomic-weight": 40.08,
+    "name": "Calcium",
+    "abbr": "Ca",
+    "type": "Alkali Earth Metal",
+    "stats": {
+      "melting": 1115,
+      "boiling": 1757,
+      "density": 1.55
+    },
+    "electron-ionisations": {
+      "configuration": "[Ar] 4s2",
+      "per-shell": "2, 8, 8, 2",
+      "oxidation-states": "+2, +1",
+      "ionisations": {
+        "first": 589.8,
+        "second": 1145.4,
+        "third": 4912.4
+      }
+    },
+    "history": {
+      "year": 1808,
+      "person": "Humphry Davy ",
+      "brief": "Compounds such as lime (CaO, calcium oxide) were prepared by the Romans in the first century under the name calx. Literature dating back to about 975 AD notes that plaster of paris (calcium sulphate, CaSO4, dehydrated gypsum) is useful for setting broken bones. Calcium metal was not isolated until 1808."
+    }
+  },
+  "21": {
+    "atomic-number": 21,
+    "atomic-weight": 44.96,
+    "name": "Scandium",
+    "abbr": "Sc",
+    "type": "Transition Metal",
+    "stats": {
+      "melting": 1814,
+      "boiling": 3109,
+      "density": 2.985
+    },
+    "electron-ionisations": {
+      "configuration": "[Ar] 3d1 4s2",
+      "per-shell": " 2, 8, 9, 2",
+      "oxidation-states": "3, 2, 1",
+      "ionisations": {
+        "first": 633.1,
+        "second": 1235,
+        "third": 2388.6
+      }
+    },
+    "history": {
+      "year": 1879,
+      "person": "Lars Frederick Nilson",
+      "brief": "Scandium was discovered by Lars Frederick Nilson in the minerals euxenite and gadolinite, which had not yet been found anywhere except in Scandinavia. He was actually looking for rare earth metals. By processing 10 kg of euxenite and other residues of rare-earth minerals, he was able to prepare about 2 g of scandium oxide of high purity."
+    }
+  },
+  "22": {
+    "atomic-number": 22,
+    "atomic-weight": 47.87,
+    "name": "Titanium",
+    "abbr": "Ti",
+    "type": "Transition Metal",
+    "stats": {
+      "melting": 1941,
+      "boiling": 3560,
+      "density": 4.506
+    },
+    "electron-ionisations": {
+      "configuration": "[Ar] 3d2 4s2",
+      "per-shell": "2, 8, 10, 2",
+      "oxidation-states": "4, 3, 2, 1, 1, 2",
+      "ionisations": {
+        "first": 658.8,
+        "second": 1309.8,
+        "third": 2652.5
+      }
+    },
+    "history": {
+      "year": 1791,
+      "person": "William Gregor ",
+      "brief": "Titanium was discovered by the Reverend William Gregor in 1791, who was interested in minerals. He recognized the presence of a new element, now known as titanium, in menachanite, a mineral named after Menaccan in Cornwall (England). Several years later, the element was rediscovered in the ore rutile by a German chemist, Klaproth.\n"
+    }
+  },
+  "23": {
+    "atomic-number": 23,
+    "atomic-weight": 50.94,
+    "name": "Vanadium",
+    "abbr": "V",
+    "type": "Transition Metal",
+    "stats": {
+      "melting": 2183,
+      "boiling": 3680,
+      "density": 6
+    },
+    "electron-ionisations": {
+      "configuration": "[Ar] 3d3 4s2",
+      "per-shell": "2, 8, 11, 2",
+      "oxidation-states": "5, 4, 3, 2, 1, 1, 3",
+      "ionisations": {
+        "first": 650.9,
+        "second": 1414,
+        "third": 2830
+      }
+    },
+    "history": {
+      "year": 1803,
+      "person": "Nil Gabriel Selfström",
+      "brief": "He separated it from a sample of cast iron made from ore that had been mined at Småland. He was able to show that it was a new element, and in so doing he beat a rival chemist, Friedrich Wöhler, to the discovery He was also working another vanadium mineral from Zimapan."
+    }
+  },
+  "24": {
+    "atomic-number": 24,
+    "atomic-weight": 52,
+    "name": "Chromium",
+    "abbr": "Cr",
+    "type": "Transition Metal",
+    "stats": {
+      "melting": 2180,
+      "boiling": 2944,
+      "density": 7.19
+    },
+    "electron-ionisations": {
+      "configuration": "[Ar] 3d5 4s1",
+      "per-shell": "2, 8, 13, 1",
+      "oxidation-states": "6, 5, 4, 3, 2, 1, 1, 2, 4",
+      "ionisations": {
+        "first": 652.9,
+        "second": 1590.6,
+        "third": 2987
+      }
+    },
+    "history": {
+      "year": 1797,
+      "person": "Nicholas Louis Vauquelin ",
+      "brief": "Chromium was discovered by the French chemist Nicholas Louis Vauquelin at Paris in1798. He was intrigued by a bright red mineral that had been discovered in a Siberian gold mine in 1766 and was referred to as Siberian red lead. It is now known as crocoite and is a form of lead chromate. "
+    }
+  },
+  "25": {
+    "atomic-number": 25,
+    "atomic-weight": 54.94,
+    "name": "Manganese",
+    "abbr": "Mn",
+    "type": "Transition Metal",
+    "stats": {
+      "melting": 1519,
+      "boiling": 2334,
+      "density": 7.21
+    },
+    "electron-ionisations": {
+      "configuration": "[Ar] 3d5 4s2",
+      "per-shell": "2, 8, 13, 2",
+      "oxidation-states": "7, 6, 5, 4, 3, 2, 1, 1, 2, 3",
+      "ionisations": {
+        "first": 717.3,
+        "second": 1509,
+        "third": 3248
+      }
+    },
+    "history": {
+      "year": 1774,
+      "person": "Johann Gahn",
+      "brief": "Manganese metal was isolated by Gahn in 1774. He reduced the dioxide (MnO2, as the mineral pyrolusite) with charcoal (essentially carbon) by heating and the result was a sample of the metal manganese."
+    }
+  },
+  "26": {
+    "atomic-number": 26,
+    "atomic-weight": 55.85,
+    "name": "Iron",
+    "abbr": "Fe",
+    "type": "Transition Metal",
+    "stats": {
+      "melting": 1811,
+      "boiling": 3134,
+      "density": 7.874
+    },
+    "electron-ionisations": {
+      "configuration": "[Ar] 3d6 4s2",
+      "per-shell": " 2, 8, 14, 2",
+      "oxidation-states": "4, 2, 1, +1, +2, +3, +4, +5, +6",
+      "ionisations": {
+        "first": 762.5,
+        "second": 1561.9,
+        "third": 2957
+      }
+    },
+    "history": {
+      "year": "~3500 BC",
+      "person": "Unknown",
+      "brief": "Iron objects have been found in Egypt dating from around 3500 BC. They contain about 7.5% nickel, which indicates that they were of meteoric origin.\n\nThe ancient Hittites of Asia Minor, today’s Turkey, were the first to smelt iron from its ores around 1500 BC and this new, stronger, metal gave them economic and political power. The Iron Age had begun. Some kinds of iron were clearly superior to others depending on its carbon content, although this was not appreciated. Some iron ore contained vanadium producing so-called Damascene steel, ideal for swords."
+    }
+  },
+  "27": {
+    "atomic-number": 27,
+    "atomic-weight": 58.93,
+    "name": "Cobalt",
+    "abbr": "Co",
+    "type": "Transition Metal",
+    "stats": {
+      "melting": 1768,
+      "boiling": 3200,
+      "density": 8.9
+    },
+    "electron-ionisations": {
+      "configuration": " [Ar] 3d7 4s2",
+      "per-shell": "2, 8, 15, 2",
+      "oxidation-states": " 3, 1, +1, +2, +3, +4, +5",
+      "ionisations": {
+        "first": 760.4,
+        "second": 1648,
+        "third": 3232
+      }
+    },
+    "history": {
+      "year": 1732,
+      "person": "Georg Brandt ",
+      "brief": "Minerals containing cobalt were of value to the early civilisations of Egypt and Mesopotamia for colouring glass deep blue.Cobalt was announced to be an element by Georg Brandt about 1739 (or possibly 1735). He had been trying to demonstrate that the blue colour of glass was because of a new element, cobalt"
+    }
+  },
+  "28": {
+    "atomic-number": 28,
+    "atomic-weight": 58.69,
+    "name": "Nickel",
+    "abbr": "Ni",
+    "type": "Transition Metal",
+    "stats": {
+      "melting": 1728,
+      "boiling": 3003,
+      "density": 8.908
+    },
+    "electron-ionisations": {
+      "configuration": "[Ar] 3d84s2 ",
+      "per-shell": "2, 8, 16, 2 or 2, 8, 17, 1",
+      "oxidation-states": "4, 3, 2, 1, 1, 2",
+      "ionisations": {
+        "first": 737.1,
+        "second": 1753,
+        "third": 3395
+      }
+    },
+    "history": {
+      "year": 1751,
+      "person": "Axel Fredrik Cronstedt ",
+      "brief": "In 1751, Axel Fredrik Cronstedt, working at Stockholm, investigated a new mineral – now called nickeline (NiAs) – which came from a mine at Los, Hälsingland, Sweden. He thought it might contain copper but what he extracted was a new metal which he announced and named nickel in 1754. Many chemists thought it was an alloy of cobalt, arsenic, iron and copper – these elements were present as trace contaminants. It was not until 1775 that pure nickel was produced by Torbern Bergman and this confirmed its elemental nature."
+    }
+  },
+  "29": {
+    "atomic-number": 29,
+    "atomic-weight": 63.55,
+    "name": "Copper",
+    "abbr": "Cu",
+    "type": "Transition Metal",
+    "stats": {
+      "melting": 1358,
+      "boiling": 2835,
+      "density": 8.96
+    },
+    "electron-ionisations": {
+      "configuration": "[Ar] 3d10 4s1",
+      "per-shell": "2, 8, 18, 1",
+      "oxidation-states": "2, +1, +2, +3, +4",
+      "ionisations": {
+        "first": 745.5,
+        "second": 1957.9,
+        "third": 3555
+      }
+    },
+    "history": {
+      "year": "Prehistoric ",
+      "person": "Unknown",
+      "brief": "Copper beads have been excavated in northern Iraq and which are more than ten thousand years old and presumably made from native copper, nuggets of which can sometimes be found. Copper was widely used in the ancient world as bronze, its alloy with tin, which was used to make cutlery, coins, and tools. In China it was used for bells."
+    }
+  },
+  "30": {
+    "atomic-number": 30,
+    "atomic-weight": 65.38,
+    "name": "Zinc",
+    "abbr": "Zn",
+    "type": "Transition Metal",
+    "stats": {
+      "melting": 693,
+      "boiling": 1180,
+      "density": 7.14
+    },
+    "electron-ionisations": {
+      "configuration": "[Ar] 3d10 4s2",
+      "per-shell": "2, 8, 18, 2",
+      "oxidation-states": "-2, 0, +1, +2",
+      "ionisations": {
+        "first": 906.4,
+        "second": 1733.3,
+        "third": 3833
+      }
+    },
+    "history": {
+      "year": 1746,
+      "person": "Andreas Marggraf ",
+      "brief": "The element was probably named by the alchemist Paracelsus after the German word Zinke. German chemist Andreas Sigismund Marggraf is normally given credit for discovering pure metallic zinc in 1746. Work by Luigi Galvani and Alessandro Volta uncovered the electrochemical properties of zinc by 1800"
+    }
+  },
+  "31": {
+    "atomic-number": 31,
+    "atomic-weight": 69.72,
+    "name": "Gallium",
+    "abbr": "Ga",
+    "type": "Post-Transition Metal",
+    "stats": {
+      "melting": 303,
+      "boiling": 2673,
+      "density": 5.91
+    },
+    "electron-ionisations": {
+      "configuration": " [Ar] 3d10 4s2 4p1",
+      "per-shell": "2, 8, 18, 3",
+      "oxidation-states": " 3, 2, 1, 1, 2, 4, 5",
+      "ionisations": {
+        "first": 578.8,
+        "second": 1979.3,
+        "third": 2963
+      }
+    },
+    "history": {
+      "year": 1875,
+      "person": "Paul-Émile Lecoq de Boisbaudran ",
+      "brief": "Gallium was discovered in Paris by Paul-Émile Lecoq de Boisbaudran in 1875. He observed a new violet line in the atomic spectrum of some zinc he had extracted from a sample of zinc blende ore (ZnS) from the Pyrenees. He knew it meant that an unknown element was present."
+    }
+  },
+  "32": {
+    "atomic-number": 32,
+    "atomic-weight": 72.64,
+    "name": "Germanium",
+    "abbr": "Ge",
+    "type": "Metalloid",
+    "stats": {
+      "melting": 1211,
+      "boiling": 3106,
+      "density": 5.323
+    },
+    "electron-ionisations": {
+      "configuration": "[Ar] 3d10 4s2 4p2",
+      "per-shell": "2, 8, 18, 4",
+      "oxidation-states": "4, 3, 2, 1, 0, 1, 2, 3, 4",
+      "ionisations": {
+        "first": 762,
+        "second": 1537.5,
+        "third": 3302.1
+      }
+    },
+    "history": {
+      "year": 1886,
+      "person": "Clemens Winkler",
+      "brief": "Germanium was an element whose existence was predicted by Mendeleev . He predicted that the then unknown element germanium should resemble silicon in its properties. His predictions for the properties of germanium are remarkably close to the reality. Germanium was discovered in a mineral called argyrodite by Clemens Alexander Winkler in 1886."
+    }
+  },
+  "33": {
+    "atomic-number": 33,
+    "atomic-weight": 74.92,
+    "name": "Arsenic",
+    "abbr": "As",
+    "type": "Metalloid",
+    "stats": {
+      "melting": 1925,
+      "boiling": 3675,
+      "density": 5.727
+    },
+    "electron-ionisations": {
+      "configuration": "[Ar] 3d10 4s2 4p3",
+      "per-shell": "2, 8, 18, 5",
+      "oxidation-states": "5, 4, 3, 2, 1, 1, 2, 3",
+      "ionisations": {
+        "first": 947,
+        "second": 1798,
+        "third": 2735
+      }
+    },
+    "history": {
+      "year": "2500 BC",
+      "person": "Albertus Magnus ",
+      "brief": "Arsenic compounds were mined by the early Chinese, Greek and Egyptian civilisations. No doubt they discovered its toxic properties early on.It is believed that Albertus Magnus obtained the element in 1250 A.D. by heating soap together with orpiment (arsenic trisulphide, As2S3)."
+    }
+  },
+  "34": {
+    "atomic-number": 34,
+    "atomic-weight": 78.96,
+    "name": "Selenium",
+    "abbr": "Se",
+    "type": "Polyatomic Nonmetal",
+    "stats": {
+      "melting": 494,
+      "boiling": 958,
+      "density": 4.809
+    },
+    "electron-ionisations": {
+      "configuration": "[Ar] 3d10 4s2 4p4",
+      "per-shell": "2, 8, 18, 6",
+      "oxidation-states": "6, 5, 4, 3, 2, 1, 1, 2",
+      "ionisations": {
+        "first": 941,
+        "second": 2045,
+        "third": 2973.7
+      }
+    },
+    "history": {
+      "year": 1817,
+      "person": "Jöns Jacob Berzelius ",
+      "brief": "Selenium was discovered by Jöns Jacob Berzelius at Stockholm in 1817. He had shares in a sulfuric acid works and he was intrigued by a red-brown sediment which collected at the bottom of the chambers in which the acid was made."
+    }
+  },
+  "35": {
+    "atomic-number": 35,
+    "atomic-weight": 79.9,
+    "name": "Bromine",
+    "abbr": "Br",
+    "type": "Diatomic Nonmetal",
+    "stats": {
+      "melting": 266,
+      "boiling": 332,
+      "density": 3.1
+    },
+    "electron-ionisations": {
+      "configuration": "[Ar] 3d10 4s2 4p5",
+      "per-shell": "2, 8, 18, 7",
+      "oxidation-states": "7, 5, 4, 3, 1, 1",
+      "ionisations": {
+        "first": 1139.9,
+        "second": 2103,
+        "third": 3470
+      }
+    },
+    "history": {
+      "year": 1826,
+      "person": "Antoine Balard",
+      "brief": "Bromine was not prepared in quantity until 1860 but compounds of bromine were of some considerable importance well before it was recognised as an element. Long ago an excretion from a particular kind of mussel was used to make a purple dye called \"Tyrian purple.\" It is now known that a key compound in this process is an organobromine compund."
+    }
+  },
+  "36": {
+    "atomic-number": 36,
+    "atomic-weight": 83.8,
+    "name": "Krypton",
+    "abbr": "Kr",
+    "type": "Noble Gas",
+    "stats": {
+      "melting": 116,
+      "boiling": 120,
+      "density": 3.749
+    },
+    "electron-ionisations": {
+      "configuration": "[Ar] 3d10 4s2 4p6",
+      "per-shell": "2, 8, 18, 8",
+      "oxidation-states": " 2, 1, 0",
+      "ionisations": {
+        "first": 1350.8,
+        "second": 2350.4,
+        "third": 3565
+      }
+    },
+    "history": {
+      "year": 1898,
+      "person": "Sir William Ramsay",
+      "brief": "Krypton was discovered in 1898 by Sir William Ramsay and his student Morris Travers in the residue left after liquid air had nearly boiled away. Krypton was left in the residue after boiling away water, oxygen, nitrogen, helium, and argon from the sample of air. Krypton is present in the air at about 1 ppm."
+    }
+  },
+  "37": {
+    "atomic-number": 37,
+    "atomic-weight": 85.47,
+    "name": "Rubidium",
+    "abbr": "Rb",
+    "type": "Alkali Metal",
+    "stats": {
+      "melting": 312,
+      "boiling": 961,
+      "density": 1.532
+    },
+    "electron-ionisations": {
+      "configuration": "[Kr] 5s1",
+      "per-shell": " 2, 8, 18, 8, 1",
+      "oxidation-states": "+1, 1",
+      "ionisations": {
+        "first": 403,
+        "second": 2633,
+        "third": 3860
+      }
+    },
+    "history": {
+      "year": 1861,
+      "person": "Gustav Kirchhoff",
+      "brief": "In 1861, Robert Bunsen and Gustav Kirchhoff, of the University of Heidelberg, dissolved the ore in acid and then precipitated the potassium it contained which carried down another heavier alkali metal. By carefully washing this precipitate with boiling water they removed the more soluble potassium component and then confirmed that they really had a new element by examining the atomic spectrum of what remained. This showed two intense ruby red lines never seen before, indicating a new element, which they named after this colour."
+    }
+  },
+  "38": {
+    "atomic-number": 38,
+    "atomic-weight": 87.62,
+    "name": "Strontium",
+    "abbr": "Sr",
+    "type": "Alkali Earth Metal",
+    "stats": {
+      "melting": 1050,
+      "boiling": 1650,
+      "density": 2.64
+    },
+    "electron-ionisations": {
+      "configuration": "[Kr] 5s2",
+      "per-shell": "2, 8, 18, 8, 2",
+      "oxidation-states": " 2, 1",
+      "ionisations": {
+        "first": 549.5,
+        "second": 1064.2,
+        "third": 4138
+      }
+    },
+    "history": {
+      "year": 1790,
+      "person": "Adair Crawford ",
+      "brief": "In 1787, an unusual rock which had been found in a lead mine at Strontian, Scotland, was investigated by Adair Crawford, an Edinburgh doctor. He realised it was a new mineral containing an unknown ‘earth’ which he named strontia. In 1791, another Edinburgh man, Thomas Charles Hope, made a fuller investigation of it and proved it was a new element. He also noted that it caused the flame of a candle to burn red."
+    }
+  },
+  "39": {
+    "atomic-number": 39,
+    "atomic-weight": 88.91,
+    "name": "Yttrium",
+    "abbr": "Y",
+    "type": "Transition Metal",
+    "stats": {
+      "melting": 1799,
+      "boiling": 3203,
+      "density": 4.472
+    },
+    "electron-ionisations": {
+      "configuration": "[Kr] 4d1 5s2",
+      "per-shell": "2, 8, 18, 9, 2",
+      "oxidation-states": "3, 2, 1",
+      "ionisations": {
+        "first": 600,
+        "second": 1180,
+        "third": 1980
+      }
+    },
+    "history": {
+      "year": 1794,
+      "person": "Johann Gadolin",
+      "brief": "In 1787, Karl Arrhenius came across an unusual black rock in an old quarry at Ytterby, near Stockholm. He thought he had found a new tungsten mineral, and passed the specimen over to Johan Gadolin based in Finland. In 1794, Gadolin announced that it contained a new 'earth' which made up 38 per cent of its weight. It was called an’ earth’ because it was yttrium oxide, Y2O3, which could not be reduced further by heating with charcoal."
+    }
+  },
+  "40": {
+    "atomic-number": 40,
+    "atomic-weight": 91.22,
+    "name": "Zirconium",
+    "abbr": "Zr",
+    "type": "Transition Metal",
+    "stats": {
+      "melting": 2128,
+      "boiling": 4650,
+      "density": 6.52
+    },
+    "electron-ionisations": {
+      "configuration": "[Kr] 4d2 5s2",
+      "per-shell": "2, 8, 18, 10, 2",
+      "oxidation-states": "4, 3, 2, 1, 2",
+      "ionisations": {
+        "first": 640.1,
+        "second": 1270,
+        "third": 2218
+      }
+    },
+    "history": {
+      "year": 1789,
+      "person": "Martin Klaproth",
+      "brief": "The name zircon probably originated from the arabic \"zargun,\" which describes the colour of the gemstone now known as zircon. Zirconium was discovered by Martin Heinrich Klaproth at 1789 in Berlin, Germany. The minerals jargon, hyacinth, and jacinth also contain zircon and these have been known since biblical times and are mentioned in the bible."
+    }
+  },
+  "41": {
+    "atomic-number": 41,
+    "atomic-weight": 92.91,
+    "name": "Niobium",
+    "abbr": "Nb",
+    "type": "Transition Metal",
+    "stats": {
+      "melting": 2750,
+      "boiling": 5017,
+      "density": 8.57
+    },
+    "electron-ionisations": {
+      "configuration": "[Kr] 4d4 5s1",
+      "per-shell": "2, 8, 18, 12, 1",
+      "oxidation-states": "5, 4, 3, 2, 1, 1, 3",
+      "ionisations": {
+        "first": 652.1,
+        "second": 1380,
+        "third": 2416
+      }
+    },
+    "history": {
+      "year": 1801,
+      "person": "Charles Hatchett",
+      "brief": "Niobium was discovered in 1801 by Charles Hatchett in an ore called columbite. He was not able to isolate the free element. There was then considerable confusion concerning the distinction between niobium and tantalum as they are so closely related. This confusion was resolved by Heinrich Rose, who named niobium."
+    }
+  },
+  "42": {
+    "atomic-number": 42,
+    "atomic-weight": 95.96,
+    "name": "Molybdenum",
+    "abbr": "Mo",
+    "type": "Transition Metal",
+    "stats": {
+      "melting": 2896,
+      "boiling": 4912,
+      "density": 10.28
+    },
+    "electron-ionisations": {
+      "configuration": "[Kr] 4d5 5s1",
+      "per-shell": "2, 8, 18, 13, 1",
+      "oxidation-states": "6, 5, 4, 3, 2, 1, 1, 2, 4",
+      "ionisations": {
+        "first": 684.3,
+        "second": 1560,
+        "third": 2618
+      }
+    },
+    "history": {
+      "year": 1778,
+      "person": "Karl Scheele",
+      "brief": "Molybdenum was recognized as a distinct element in 1778 by K. W. Scheele; its ore had earlier been confused with lead ore, hence its name. The element was isolated by P. J. Hjelm in 1782. Molybdenum do not occur uncombined in nature. It is widely but sparingly distributed throughout the world"
+    }
+  },
+  "43": {
+    "atomic-number": 43,
+    "atomic-weight": 98,
+    "name": "Technetium",
+    "abbr": "Tc",
+    "type": "Transition Metal",
+    "stats": {
+      "melting": 2430,
+      "boiling": 4538,
+      "density": 11
+    },
+    "electron-ionisations": {
+      "configuration": "[Kr] 4d5 5s2",
+      "per-shell": "2, 8, 18, 13, 2",
+      "oxidation-states": "7, 6, 5, 4, 3, 2, 1, 1, 3",
+      "ionisations": {
+        "first": 702,
+        "second": 1470,
+        "third": 2850
+      }
+    },
+    "history": {
+      "year": 1937,
+      "person": "Carlo Perrier, Emilio Segrè ",
+      "brief": "Technetium long tantalised chemists because it could not be found. We now know that all its isotopes are radioactive and any mineral deposits of the element had long disappeared from the Earth’s crust. (The longest lived isotope has a half life of 4 million years.) Even so, some technetium atoms are produced as uranium undergoes nuclear fission and there is about 1 milligram of technetium in a tonne of uranium. Claims in the 1920s to have found this element, or at least to have observed its spectrum, cannot be entirely discounted."
+    }
+  },
+  "44": {
+    "atomic-number": 44,
+    "atomic-weight": 101.07,
+    "name": "Ruthenium",
+    "abbr": "Ru",
+    "type": "Transition Metal",
+    "stats": {
+      "melting": 2607,
+      "boiling": 4423,
+      "density": 12.45
+    },
+    "electron-ionisations": {
+      "configuration": "[Kr] 4d7 5s1",
+      "per-shell": "2, 8, 18, 15, 1",
+      "oxidation-states": "-4, -2, 1, 2, 3, 4, 5, 6, 7, 8",
+      "ionisations": {
+        "first": 710.2,
+        "second": 1620,
+        "third": 2747
+      }
+    },
+    "history": {
+      "year": 1844,
+      "person": "Karl Karlovich Klaus ",
+      "brief": "The Polish chemist Jedrzej Sniadecki was investigating platinum ores from South America and, in May 1808, when he discovered a new metal which he called it vestium. However, when French chemists tried to repeat his work they were unable to find it in the platinum ore they had. When Sniadecki learned of this he believed he had been mistaken and withdrew his claim."
+    }
+  },
+  "45": {
+    "atomic-number": 45,
+    "atomic-weight": 102.91,
+    "name": "Rhodium",
+    "abbr": "Rh",
+    "type": "Transition Metal",
+    "stats": {
+      "melting": 2237,
+      "boiling": 3968,
+      "density": 12.41
+    },
+    "electron-ionisations": {
+      "configuration": " [Kr] 4d8 5s1",
+      "per-shell": "2, 8, 18, 16, 1",
+      "oxidation-states": "6, 5, 4, 3, 2, 1, 1, 3",
+      "ionisations": {
+        "first": 719.7,
+        "second": 1740,
+        "third": 2997
+      }
+    },
+    "history": {
+      "year": 1803,
+      "person": "William Hyde Wollaston ",
+      "brief": "William Hyde Wollaston discovered rhodium in 1803 in crude platinum ore from South America. He dissolved the ore in aqua regia, neutralised the acid with caustic soda, and precipitated the platinum & Palladium. The left material was a red material containing rhodium chloride salt from which rhodium metal was obtained by reduction with hydrogen gas."
+    }
+  },
+  "46": {
+    "atomic-number": 46,
+    "atomic-weight": 106.42,
+    "name": "Palladium",
+    "abbr": "Pd",
+    "type": "Transition Metal",
+    "stats": {
+      "melting": 1828,
+      "boiling": 3236,
+      "density": 12.023
+    },
+    "electron-ionisations": {
+      "configuration": "[Kr] 4d10",
+      "per-shell": "2, 8, 18, 18",
+      "oxidation-states": "0, +1, +2, +3, +4, +5, +6",
+      "ionisations": {
+        "first": 804.4,
+        "second": 1870,
+        "third": 3177
+      }
+    },
+    "history": {
+      "year": 1803,
+      "person": "William Hyde Wollaston ",
+      "brief": "William Hyde Wollaston discovered palladium in 1803-4 in crude platinum ore from South America. He dissolved the ore in aqua regia, neutralised the acid with caustic soda, and precipitated the platinum .Palladium was then removed as palladium cyanide by treatment with mercuric cyanide. The metal was produced from this cyanide by heating."
+    }
+  },
+  "47": {
+    "atomic-number": 47,
+    "atomic-weight": 107.87,
+    "name": "Silver",
+    "abbr": "Ag",
+    "type": "Transition Metal",
+    "stats": {
+      "melting": 1235,
+      "boiling": 2435,
+      "density": 10.49
+    },
+    "electron-ionisations": {
+      "configuration": "[Kr] 4d10 5s1",
+      "per-shell": "2, 8, 18, 18, 1",
+      "oxidation-states": "2, 1, 1, 2, 3, 4",
+      "ionisations": {
+        "first": 731,
+        "second": 2070,
+        "third": 3361
+      }
+    },
+    "history": {
+      "year": "~3000 BC ",
+      "person": "Unknown",
+      "brief": "Silver has been known since ancient times. It is mentioned in Genesis. Slag dumps in Asia Minor and on islands in the Aegean Sea indicate that man learned to separate silver from lead as early as 3000 B.C."
+    }
+  },
+  "48": {
+    "atomic-number": 48,
+    "atomic-weight": 112.41,
+    "name": "Cadmium",
+    "abbr": "Cd",
+    "type": "Transition Metal",
+    "stats": {
+      "melting": 594,
+      "boiling": 1040,
+      "density": 8.65
+    },
+    "electron-ionisations": {
+      "configuration": " [Kr] 4d10 5s2",
+      "per-shell": "2, 8, 18, 18, 2",
+      "oxidation-states": "2, 1, 2",
+      "ionisations": {
+        "first": 867.8,
+        "second": 1631.4,
+        "third": 3616
+      }
+    },
+    "history": {
+      "year": 1817,
+      "person": "Friedrich Stromeyer",
+      "brief": "Cadmium was discovered by Friedrich Stromeyer in 1817 from an impurity in some samples of zinc carbonate. He noted that these particular samples changed colour on heating, which pure zinc carbonate does not. He was persistent to follow this observation through and he eventually isolated some cadmium metal by roasting and reduction of the sulphide."
+    }
+  },
+  "49": {
+    "atomic-number": 49,
+    "atomic-weight": 114.82,
+    "name": "Indium",
+    "abbr": "In",
+    "type": "Post-Transition Metal",
+    "stats": {
+      "melting": 430,
+      "boiling": 2345,
+      "density": 7.31
+    },
+    "electron-ionisations": {
+      "configuration": "[Kr] 4d10 5s2 5p1",
+      "per-shell": "2, 8, 18, 18, 3",
+      "oxidation-states": "3, 2, 1, 1, 2, 5",
+      "ionisations": {
+        "first": 558.3,
+        "second": 1820.7,
+        "third": 2704
+      }
+    },
+    "history": {
+      "year": 1863,
+      "person": "Friedrich Stromeyer",
+      "brief": "Elements and Periodic Table History\nIndium was discovered in 1863 by Ferdinand Reich at the Freiberg School of Mines in Germany. Reich was investigating a sample of the mineral zinc blende (now known as sphalerite, ZnS) which he believed might contain the recently discovered element thallium. From it he obtained a yellow precipitate which he thought was thallium sulfide, but his atomic spectroscope showed lines that were not those of thallium. "
+    }
+  },
+  "50": {
+    "atomic-number": 50,
+    "atomic-weight": 118.71,
+    "name": "Tin",
+    "abbr": "Sn",
+    "type": "Post-Transition Metal",
+    "stats": {
+      "melting": 505,
+      "boiling": 2875,
+      "density": 7.287
+    },
+    "electron-ionisations": {
+      "configuration": "[Kr] 4d10 5s2 5p1",
+      "per-shell": "2, 8, 18, 18, 3",
+      "oxidation-states": "3, 2, 1, 1, 2, 5",
+      "ionisations": {
+        "first": 558.3,
+        "second": 1820.7,
+        "third": 2704
+      }
+    },
+    "history": {
+      "year": "~2100 BC ",
+      "person": "Unknown",
+      "brief": "Tin was known to the ancients and is mentioned in the Old Testament. Early metal workers found it too soft for most purposes but mixed with copper it gives the alloy bronze, of Bronze Age fame."
+    }
+  },
+  "51": {
+    "atomic-number": 51,
+    "atomic-weight": 121.76,
+    "name": "Antimony",
+    "abbr": "Sb",
+    "type": "Metalloid",
+    "stats": {
+      "melting": 904,
+      "boiling": 1908,
+      "density": 6.697
+    },
+    "electron-ionisations": {
+      "configuration": "[Kr] 4d10 5s2 5p3",
+      "per-shell": " 2, 8, 18, 18, 5",
+      "oxidation-states": "5, 4, 3, 2, 1, 1, 2, 3",
+      "ionisations": {
+        "first": 834,
+        "second": 1594.9,
+        "third": 2440
+      }
+    },
+    "history": {
+      "year": "~1600 BC ",
+      "person": "Unknown",
+      "brief": "Antimony was recognized in compounds by the ancients and was known as a metal at the beginning of the 17th century and possibly much earlier. It seems not to be clear who first recognised antimony as an element but the French chemist Nicolas LŽmery conducted much of the earlier studies on antimony chemistry."
+    }
+  },
+  "52": {
+    "atomic-number": 52,
+    "atomic-weight": 127.6,
+    "name": "Tellurium",
+    "abbr": "Te",
+    "type": "Metalloid",
+    "stats": {
+      "melting": 723,
+      "boiling": 1261,
+      "density": 6.24
+    },
+    "electron-ionisations": {
+      "configuration": "[Kr] 4d10 5s2 5p4",
+      "per-shell": " 2, 8, 18, 18, 6",
+      "oxidation-states": "6, 5, 4, 3, 2, 1, 1, 2",
+      "ionisations": {
+        "first": 869.3,
+        "second": 1790,
+        "third": 2698
+      }
+    },
+    "history": {
+      "year": 1783,
+      "person": "Franz-Joseph Müller von Reichenstein ",
+      "brief": "Tellurium was discovered in 1783 by Franz Joseph Müller von Reichenstein at Sibiu, Romania. He became intrigued by ore from a mine near Zalatna which had a metallic sheen and which he suspected was native antimony or bismuth. (It was actually gold telluride, AuTe2.) Preliminary investigation showed neither antimony nor bismuth to be present. "
+    }
+  },
+  "53": {
+    "atomic-number": 53,
+    "atomic-weight": 126.9,
+    "name": "Iodine",
+    "abbr": "I",
+    "type": "Diatomic Nonmetal",
+    "stats": {
+      "melting": 387,
+      "boiling": 457,
+      "density": 4.933
+    },
+    "electron-ionisations": {
+      "configuration": "[Kr] 4d10 5s2 5p5",
+      "per-shell": "2, 8, 18, 18, 7",
+      "oxidation-states": "7, 6, 5, 4, 3, 1, 1",
+      "ionisations": {
+        "first": 1008.4,
+        "second": 1845.9,
+        "third": 3180
+      }
+    },
+    "history": {
+      "year": 1811,
+      "person": "Barnard Courtois",
+      "brief": "Iodine was discovered by Barnard Courtois in 1811. He isolated iodine from treating seaweed ash with sulphuric acid (H2SO4) while recovering sodium and potassium compounds."
+    }
+  },
+  "54": {
+    "atomic-number": 54,
+    "atomic-weight": 131.29,
+    "name": "Xenon",
+    "abbr": "Xe",
+    "type": "Noble Gas",
+    "stats": {
+      "melting": 161,
+      "boiling": 165,
+      "density": 5.894
+    },
+    "electron-ionisations": {
+      "configuration": "[Kr] 4d10 5s2 5p6",
+      "per-shell": "2, 8, 18, 18, 8",
+      "oxidation-states": "0, +1, +2, +4, +6, +8",
+      "ionisations": {
+        "first": 1170.4,
+        "second": 2046.4,
+        "third": 3099.4
+      }
+    },
+    "history": {
+      "year": 1898,
+      "person": "Sir William Ramsay",
+      "brief": "Xenon was discovered by Sir William Ramsay and Morris Travers in 1898 in the residue left after evaporating liquid air components. They had to work with huge volumes of air to produce just a little xenon since it turned out that xenon is only present to the extent of about 0.087 ppm in the atmosphere."
+    }
+  },
+  "55": {
+    "atomic-number": 55,
+    "atomic-weight": 132.91,
+    "name": "Caesium",
+    "abbr": "Cs",
+    "type": "Alkali Metal",
+    "stats": {
+      "melting": 302,
+      "boiling": 944,
+      "density": 1.93
+    },
+    "electron-ionisations": {
+      "configuration": " [Xe] 6s1",
+      "per-shell": "2, 8, 18, 18, 8, 1",
+      "oxidation-states": "+1, 1",
+      "ionisations": {
+        "first": 375.7,
+        "second": 2234.3,
+        "third": 3400
+      }
+    },
+    "history": {
+      "year": 1860,
+      "person": "Robert Bunsen, Gustav Kirchhoff",
+      "brief": "Caesium (cesium in USA) was discovered spectroscopically by Robert Wilhelm Bunsen and Gustav Robert Kirchhoff in 1860 in samples of mineral water from Durkheim. Their identification was based upon two bright blue lines in the spectrum. The name caesium (from the Latin \"caesius\" - heavenly blue) was coined for its bright blue spectroscopic lines."
+    }
+  },
+  "56": {
+    "atomic-number": 56,
+    "atomic-weight": 137.33,
+    "name": "Barium",
+    "abbr": "Ba",
+    "type": "Alkali Earth Metal",
+    "stats": {
+      "melting": 1000,
+      "boiling": 2118,
+      "density": 3.51
+    },
+    "electron-ionisations": {
+      "configuration": "[Xe] 6s2",
+      "per-shell": "2, 8, 18, 18, 8, 2",
+      "oxidation-states": "+2, +1",
+      "ionisations": {
+        "first": 502.9,
+        "second": 965.2,
+        "third": 3600
+      }
+    },
+    "history": {
+      "year": 1808,
+      "person": "Humphry Davy ",
+      "brief": "Barium metal was first isolated in 1808 by Sir Humphry Davy by electrolysis. Its principal ore is barite (barium sulfate); it also occurs in the mineral witherite (barium carbonate). The pure metal is obtained by the electrolysis of fused barium salts or, industrially, by the reduction of barium oxide with aluminum."
+    }
+  },
+  "57": {
+    "atomic-number": 57,
+    "atomic-weight": 138.91,
+    "name": "Lanthanum",
+    "abbr": "La",
+    "type": "Lanthanide",
+    "stats": {
+      "melting": 1193,
+      "boiling": 3737,
+      "density": 6.162
+    },
+    "electron-ionisations": {
+      "configuration": "[Xe] 5d1 6s2",
+      "per-shell": "2, 8, 18, 18, 9, 2",
+      "oxidation-states": "3, 2, 1",
+      "ionisations": {
+        "first": 538.1,
+        "second": 1067,
+        "third": 1850.3
+      }
+    },
+    "history": {
+      "year": 1839,
+      "person": "Carl Gustav Mosander",
+      "brief": "Carl Gustav Mosander recognized the element lanthanum in impure cerium nitrate in 1839. His extraction resulted in the oxide lanthana (La2O3). A number of other lanthanides (rare-earths) were later discovered by identification of the impurities in yttrium and cerium compounds."
+    }
+  },
+  "58": {
+    "atomic-number": 58,
+    "atomic-weight": 140.12,
+    "name": "Cerium",
+    "abbr": "Ce",
+    "type": "Lanthanide",
+    "stats": {
+      "melting": 1068,
+      "boiling": 3716,
+      "density": 6.77
+    },
+    "electron-ionisations": {
+      "configuration": "[Xe] 4f1 5d1 6s2",
+      "per-shell": " 2, 8, 18, 19, 9, 2",
+      "oxidation-states": "4, 3, 2, 1",
+      "ionisations": {
+        "first": 534.4,
+        "second": 1050,
+        "third": 1949
+      }
+    },
+    "history": {
+      "year": 1803,
+      "person": "Jöns Jacob Berzelius, Wilhelm Hisinger ",
+      "brief": "Cerium was discovered in 1803 by Jšns Jacob Berzelius and Wilhelm Hisinger and independently by Martin Klaproth. It was isolated from a mineral from an iron mine at Bastns."
+    }
+  },
+  "59": {
+    "atomic-number": 59,
+    "atomic-weight": 140.91,
+    "name": "Praseodymium",
+    "abbr": "Pr",
+    "type": "Lanthanide",
+    "stats": {
+      "melting": 1208,
+      "boiling": 3403,
+      "density": 6.77
+    },
+    "electron-ionisations": {
+      "configuration": "[Xe] 4f3 6s2",
+      "per-shell": "2, 8, 18, 21, 8, 2",
+      "oxidation-states": "5, 4, 3, 2",
+      "ionisations": {
+        "first": 527,
+        "second": 1020,
+        "third": 2086
+      }
+    },
+    "history": {
+      "year": 1885,
+      "person": "Carl Welsbach",
+      "brief": "In 1885, Carl Auer von Welsbach separated an \"earth\" called didymia obtained from the mineral samarskite into two earths, praseodymia and neodymia, which gave salts of different colours. The separation required the repeated fractionation of ammonium didymium nitrate."
+    }
+  },
+  "60": {
+    "atomic-number": 60,
+    "atomic-weight": 144.24,
+    "name": "Neodymium",
+    "abbr": "Nd",
+    "type": "Lanthanide",
+    "stats": {
+      "melting": 1297,
+      "boiling": 3347,
+      "density": 7.01
+    },
+    "electron-ionisations": {
+      "configuration": "[Xe] 4f4 6s2",
+      "per-shell": "2, 8, 18, 22, 8, 2",
+      "oxidation-states": "+4, +3, +2",
+      "ionisations": {
+        "first": 533.1,
+        "second": 1040,
+        "third": 2130
+      }
+    },
+    "history": {
+      "year": 1885,
+      "person": "Carl Welsbach",
+      "brief": "In 1885 von Welsbach separated didymium, an extract of cerite, into two new elemental components, neodymia and praseodymia, by repeated fractionation of ammonium didymium nitrate. While the free metal is a component of misch metal, (a pyrophoric alloy for lighter flints), the element was not isolated in relatively pure form until 1925."
+    }
+  },
+  "61": {
+    "atomic-number": 61,
+    "atomic-weight": 145,
+    "name": "Promethium",
+    "abbr": "Pm",
+    "type": "Lanthanide",
+    "stats": {
+      "melting": 1315,
+      "boiling": 3273,
+      "density": 7.26
+    },
+    "electron-ionisations": {
+      "configuration": "[Xe] 4f5 6s2",
+      "per-shell": "2, 8, 18, 23, 8, 2",
+      "oxidation-states": "3, 2",
+      "ionisations": {
+        "first": 540,
+        "second": 1050,
+        "third": 2150
+      }
+    },
+    "history": {
+      "year": 1947,
+      "person": "Marinsky, Glendenin, and Coryell",
+      "brief": "Earlt claims to the discovery of promethium date back to 1924 but these appear have been substantiated. A group at Ohio State University claimed element 61 in experiments involving its synthesis in a cyclotron. Marinsky, Glendenin, and Coryell at Tennessee made the first chemical identification of promethium by use of ion-exchange chromatography"
+    }
+  },
+  "62": {
+    "atomic-number": 62,
+    "atomic-weight": 150.36,
+    "name": "Samarium",
+    "abbr": "Sm",
+    "type": "Lanthanide",
+    "stats": {
+      "melting": 1345,
+      "boiling": 2173,
+      "density": 7.52
+    },
+    "electron-ionisations": {
+      "configuration": "[Xe] 4f6 6s2",
+      "per-shell": "2, 8, 18, 24, 8, 2",
+      "oxidation-states": "4, 3, 2, 1",
+      "ionisations": {
+        "first": 544.5,
+        "second": 1070,
+        "third": 2260
+      }
+    },
+    "history": {
+      "year": 1853,
+      "person": "Jean Charles Galissard",
+      "brief": "Samarium was discovered spectroscopically by its sharp absorption lines in 1853 by Jean Charles Galissard de Marignac in an \"earth\" called didymia. The element was isolated in 1879 by Lecoq de Boisbaudran from the mineral samarskite, named in honour of a Russian mine official, Colonel Samarski, and which therefore gave samarium its name."
+    }
+  },
+  "63": {
+    "atomic-number": 63,
+    "atomic-weight": 151.96,
+    "name": "Europium",
+    "abbr": "Eu",
+    "type": "Lanthanide",
+    "stats": {
+      "melting": 1099,
+      "boiling": 1802,
+      "density": 5.264
+    },
+    "electron-ionisations": {
+      "configuration": "[Xe] 4f7 6s2",
+      "per-shell": "2, 8, 18, 25, 8, 2",
+      "oxidation-states": "3, 2, 1",
+      "ionisations": {
+        "first": 547.1,
+        "second": 1085,
+        "third": 2404
+      }
+    },
+    "history": {
+      "year": 1901,
+      "person": "Eugène-Antole Demarçay",
+      "brief": "Europium’s story is part of the complex history of the rare earths, aka lanthanoids. It began with cerium which was discovered in 1803. In 1839 Carl Mosander separated two other elements from it: lanthanum and one he called didymium which turned out to be a mixture of two rare earths, praseodymium and neodymium, as revealed by Karl Auer in 1879."
+    }
+  },
+  "64": {
+    "atomic-number": 64,
+    "atomic-weight": 157.25,
+    "name": "Gadolinium",
+    "abbr": "Gd",
+    "type": "Lanthanide",
+    "stats": {
+      "melting": 1585,
+      "boiling": 3273,
+      "density": 7.9
+    },
+    "electron-ionisations": {
+      "configuration": " [Xe] 4f7 5d1 6s2",
+      "per-shell": "2, 8, 18, 25, 9, 2",
+      "oxidation-states": "1, 2, 3",
+      "ionisations": {
+        "first": 593.4,
+        "second": 1170,
+        "third": 1990
+      }
+    },
+    "history": {
+      "year": 1880,
+      "person": "Jean Charles Galissard",
+      "brief": "Spectroscopic lines due to gadolinium were observed by Jean Charles Galissard de Marignac in 1880 in samples of didymia and gadolinite. Gadolinia, the oxide of gadolinium, was separated by Paul-Emile Loq de Biosbaudran in 1886. The element was named for the mineral gadolinite from which this rare earth was originally obtained."
+    }
+  },
+  "65": {
+    "atomic-number": 65,
+    "atomic-weight": 158.93,
+    "name": "Terbium",
+    "abbr": "Tb",
+    "type": "Lanthanide",
+    "stats": {
+      "melting": 1629,
+      "boiling": 3396,
+      "density": 8.23
+    },
+    "electron-ionisations": {
+      "configuration": "[Xe] 4f9 6s2",
+      "per-shell": "2, 8, 18, 27, 8, 2",
+      "oxidation-states": "4, 3, 2, 1",
+      "ionisations": {
+        "first": 565.8,
+        "second": 1110,
+        "third": 2114
+      }
+    },
+    "history": {
+      "year": 1843,
+      "person": "Gustav Mosander",
+      "brief": "Terbium was first isolated in 1843 by the Swedish chemist Carl Mosander at Stockholm. He had already investigated cerium oxide and separated a new element from it, lanthanum, and now he focussed his attention on yttrium, discovered in 1794, because he thought this too might harbour another element."
+    }
+  },
+  "66": {
+    "atomic-number": 66,
+    "atomic-weight": 162.5,
+    "name": "Dysprosium",
+    "abbr": "Dy",
+    "type": "Lanthanide",
+    "stats": {
+      "melting": 1680,
+      "boiling": 2840,
+      "density": 8.54
+    },
+    "electron-ionisations": {
+      "configuration": "[Xe] 4f10 6s2",
+      "per-shell": "2, 8, 18, 28, 8, 2",
+      "oxidation-states": "4, 3, 2, 1",
+      "ionisations": {
+        "first": 573,
+        "second": 1130,
+        "third": 2200
+      }
+    },
+    "history": {
+      "year": 1886,
+      "person": "Paul-Emile Lecoq de Boisbaudran",
+      "brief": "A lttle dysprosium oxide was identified in 1886 by Paul-Emile Lecoq de Boisbaudran as an impurity in erbia (erbium oxide), but the element itself not isolated at that time. Neither the oxide nor the metal was available in relatively pure form following the development of ion-exchange separation and metallographic reduction techniques."
+    }
+  },
+  "67": {
+    "atomic-number": 67,
+    "atomic-weight": 164.93,
+    "name": "Holmium",
+    "abbr": "Ho",
+    "type": "Lanthanide",
+    "stats": {
+      "melting": 1734,
+      "boiling": 2873,
+      "density": 8.79
+    },
+    "electron-ionisations": {
+      "configuration": "[Xe] 4f11 6s2",
+      "per-shell": "2, 8, 18, 29, 8, 2",
+      "oxidation-states": "3, 2, 1",
+      "ionisations": {
+        "first": 581,
+        "second": 1140,
+        "third": 2204
+      }
+    },
+    "history": {
+      "year": 1878,
+      "person": "Per Teodor Cleve",
+      "brief": "Cleve looked more closely at what remained after the ytterbium had been removed, and realised it must contain yet other elements because he found that its atomic weight depended on its source. He separated holmium from erbium in 1878. "
+    }
+  },
+  "68": {
+    "atomic-number": 68,
+    "atomic-weight": 167.26,
+    "name": "Erbium",
+    "abbr": "Er",
+    "type": "Lanthanide",
+    "stats": {
+      "melting": 1802,
+      "boiling": 3141,
+      "density": 9.066
+    },
+    "electron-ionisations": {
+      "configuration": "[Xe] 4f12 6s2",
+      "per-shell": "2, 8, 18, 30, 8, 2",
+      "oxidation-states": "3, 2, 1",
+      "ionisations": {
+        "first": 589.3,
+        "second": 1150,
+        "third": 2194
+      }
+    },
+    "history": {
+      "year": 1842,
+      "person": "Carl Gustav Mosander ",
+      "brief": "In 1843, at Stockholm, Carl Mosander obtained two new metal oxides from yttrium, which had been know since 1794. One of these was erbium oxide, which was pink."
+    }
+  },
+  "69": {
+    "atomic-number": 69,
+    "atomic-weight": 168.93,
+    "name": "Thulium",
+    "abbr": "Tm",
+    "type": "Lanthanide",
+    "stats": {
+      "melting": 1818,
+      "boiling": 2223,
+      "density": 9.32
+    },
+    "electron-ionisations": {
+      "configuration": "[Xe] 4f13 6s2",
+      "per-shell": "2, 8, 18, 31, 8, 2",
+      "oxidation-states": "2, 3",
+      "ionisations": {
+        "first": 596.7,
+        "second": 1160,
+        "third": 2285
+      }
+    },
+    "history": {
+      "year": 1879,
+      "person": "Theodor Cleve",
+      "brief": "Per Theodor Cleve of Sweden discovered holmium in 1879 while working on erbia earth (erbium oxide). Thulium oxide (holmia) was present as an impurity in the erbia. The element is named after Thule, the ancient name for Scandinavia."
+    }
+  },
+  "70": {
+    "atomic-number": 70,
+    "atomic-weight": 173.05,
+    "name": "Ytterbium",
+    "abbr": "Yb",
+    "type": "Lanthanide",
+    "stats": {
+      "melting": 1097,
+      "boiling": 1469,
+      "density": 6.9
+    },
+    "electron-ionisations": {
+      "configuration": "[Xe] 4f14 6s2",
+      "per-shell": " 2, 8, 18, 32, 8, 2",
+      "oxidation-states": "3, 2, 1",
+      "ionisations": {
+        "first": 603.4,
+        "second": 1174.8,
+        "third": 2417
+      }
+    },
+    "history": {
+      "year": 1878,
+      "person": "Marignac",
+      "brief": "In 1878 Marignac discovered a component, which he called ytterbia, in the earth then known as erbia. In 1907, Urbain separated ytterbia into two components, which he called neoytterbia and lutecia. The elements in these earths are now known as ytterbium and lutetium, respectively.\n"
+    }
+  },
+  "71": {
+    "atomic-number": 71,
+    "atomic-weight": 174.97,
+    "name": "Lutetium",
+    "abbr": "Lu",
+    "type": "Lanthanide",
+    "stats": {
+      "melting": 1925,
+      "boiling": 3675,
+      "density": 9.841
+    },
+    "electron-ionisations": {
+      "configuration": "[Xe] 4f14 5d1 6s2",
+      "per-shell": " 2, 8, 18, 32, 9, 2",
+      "oxidation-states": "3, 2, 1",
+      "ionisations": {
+        "first": 523.5,
+        "second": 1340,
+        "third": 2022.3
+      }
+    },
+    "history": {
+      "year": 1907,
+      "person": "Georges Urbain",
+      "brief": "The honour of discovering lutetium went to Georges Urbain at the Sorbonne in Paris, because he was the first to report it. The story began with the discovery of yttrium in 1794 from which several other elements – the rare earths (aka lanthanoids) – were to be separated, starting with erbium in 1843 and ending with lutetium in 1907."
+    }
+  },
+  "72": {
+    "atomic-number": 72,
+    "atomic-weight": 178.49,
+    "name": "Hafnium",
+    "abbr": "Hf",
+    "type": "Transition Metal",
+    "stats": {
+      "melting": 2506,
+      "boiling": 4876,
+      "density": 13.31
+    },
+    "electron-ionisations": {
+      "configuration": "[Xe] 4f14 5d2 6s2",
+      "per-shell": "2, 8, 18, 32, 10, 2",
+      "oxidation-states": "4, 3, 2, 1, 2",
+      "ionisations": {
+        "first": 658.5,
+        "second": 1440,
+        "third": 2250
+      }
+    },
+    "history": {
+      "year": 1923,
+      "person": "Dirk Coster, George Hevesey",
+      "brief": "Hafnium was thought to be present in various zirconium minerals many years prior to its discovery, in 1923, which was credited to Dirk Coster and George Charles von Hevesey. It was finally identified in zircon from Norway, by means of X-ray spectroscopic analysis. It was named in honour of the city in which the discovery was made."
+    }
+  },
+  "73": {
+    "atomic-number": 73,
+    "atomic-weight": 180.95,
+    "name": "Tantalum",
+    "abbr": "Ta",
+    "type": "Transition Metal",
+    "stats": {
+      "melting": 3290,
+      "boiling": 5731,
+      "density": 16.69
+    },
+    "electron-ionisations": {
+      "configuration": "[Xe] 4f14 5d3 6s2",
+      "per-shell": "2, 8, 18, 32, 11, 2",
+      "oxidation-states": "5, 4, 3, 2, 1, 1, 3",
+      "ionisations": {
+        "first": 761,
+        "second": 1500,
+        "third": 0
+      }
+    },
+    "history": {
+      "year": 1802,
+      "person": "Anders Ekeberg",
+      "brief": "Niobium was discovered in by Anders Ekeberg, but many chemists thought niobium and tantalum were the same. Some felt that perhaps tantalum was an allotrope of niobium. Later, Rose, in 1844, and Marignac, in 1866, showed that niobic and tantalic acids were two different acids.The first relatively pure tantalum was produced by von Bolton in 1907."
+    }
+  },
+  "74": {
+    "atomic-number": 74,
+    "atomic-weight": 183.84,
+    "name": "Tungsten",
+    "abbr": "W",
+    "type": "Transition Metal",
+    "stats": {
+      "melting": 3695,
+      "boiling": 6203,
+      "density": 19.25
+    },
+    "electron-ionisations": {
+      "configuration": "[Xe] 4f14 5d4 6s2",
+      "per-shell": "2, 8, 18, 32, 12, 2",
+      "oxidation-states": "6, 5, 4, 3, 2, 1, 0, 1, 2, 4",
+      "ionisations": {
+        "first": 770,
+        "second": 1700,
+        "third": 0
+      }
+    },
+    "history": {
+      "year": 1783,
+      "person": "Fausto, Juan Jose de Elhuyar",
+      "brief": "Tungsten used to be known as wolfram (from wolframite, said to be named from wolf rahm or spumi lupi, because the ore interfered with the smelting of tin and was supposed to devour the tin). The de Elhuyar brothers found an acid in wolframite in 1783 that they succeeded in reducing to the elemental metal with charcoal."
+    }
+  },
+  "75": {
+    "atomic-number": 75,
+    "atomic-weight": 186.21,
+    "name": "Rhenium",
+    "abbr": "Re",
+    "type": "Transition Metal",
+    "stats": {
+      "melting": 3459,
+      "boiling": 5903,
+      "density": 21.02
+    },
+    "electron-ionisations": {
+      "configuration": " [Xe] 4f14 5d5 6s2",
+      "per-shell": "2, 8, 18, 32, 13, 2",
+      "oxidation-states": "7, 6, 5, 4, 3, 2, 1, 0, 1, 3",
+      "ionisations": {
+        "first": 760,
+        "second": 1260,
+        "third": 2510
+      }
+    },
+    "history": {
+      "year": 1925,
+      "person": "Walter Noddack, Ida Tacke, Otto Berg",
+      "brief": "Discovery of rhenium is generally attributed to Walter Noddack, Ida Tacke-Noddack, and Otto Berg, who announced in 1925 they had detected the element in platinum ores and columbite.\n"
+    }
+  },
+  "76": {
+    "atomic-number": 76,
+    "atomic-weight": 190.23,
+    "name": "Osmium",
+    "abbr": "Os",
+    "type": "Transition Metal",
+    "stats": {
+      "melting": 3306,
+      "boiling": 5285,
+      "density": 22.59
+    },
+    "electron-ionisations": {
+      "configuration": "[Xe] 4f14 5d6 6s2",
+      "per-shell": " 2, 8, 18, 32, 14, 2",
+      "oxidation-states": "8, 7, 6, 5, 4, 3, 2, 1, 0, 1, 2, 4",
+      "ionisations": {
+        "first": 840,
+        "second": 1600,
+        "third": 0
+      }
+    },
+    "history": {
+      "year": 1803,
+      "person": "Smithson Tennant",
+      "brief": "Osmium was discovered in 1803 by Smithson Tennant in the dark coloured residue left when crude platinum is dissolved by aqua regia (a mixture of hydrochloric and nitric acid). This dark residue contains both osmium (named after osme meaning odour) and iridium."
+    }
+  },
+  "77": {
+    "atomic-number": 77,
+    "atomic-weight": 192.22,
+    "name": "Iridium",
+    "abbr": "Ir",
+    "type": "Transition Metal",
+    "stats": {
+      "melting": 2719,
+      "boiling": 4403,
+      "density": 22.56
+    },
+    "electron-ionisations": {
+      "configuration": "[Xe] 4f14 5d7 6s2",
+      "per-shell": " 2, 8, 18, 32, 15, 2",
+      "oxidation-states": "3, 1, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9",
+      "ionisations": {
+        "first": 880,
+        "second": 1600,
+        "third": 0
+      }
+    },
+    "history": {
+      "year": 1803,
+      "person": "Smithson Tennant",
+      "brief": "Iridium was discovered in 1803 by Smithson Tennant in the dark coloured residue left when crude platinum is dissolved by aqua regia (a mixture of hydrochloric and nitric acid). This dark residue contains both osmium and iridium (named after the Latin word iris meaning rainbow because of the colourful nature of iridium compounds)."
+    }
+  },
+  "78": {
+    "atomic-number": 78,
+    "atomic-weight": 195.08,
+    "name": "Platinum",
+    "abbr": "Pt",
+    "type": "Transition Metal",
+    "stats": {
+      "melting": 2041,
+      "boiling": 4098,
+      "density": 21.45
+    },
+    "electron-ionisations": {
+      "configuration": "[Xe] 4f14 5d9 6s1",
+      "per-shell": "2, 8, 18, 32, 17, 1",
+      "oxidation-states": "6, 5, 4, 3, 2, 1, 1, 2, 3",
+      "ionisations": {
+        "first": 870,
+        "second": 1791,
+        "third": 0
+      }
+    },
+    "history": {
+      "year": 1557,
+      "person": "Unknown",
+      "brief": "The metal was used by pre-Columbian Indians but platinum was \"rediscovered\" in South America by Ulloa in 1735 and by Wood in 1741. In 1822 plenty of platinum was discovered in the Ural Mountains in Russia."
+    }
+  },
+  "79": {
+    "atomic-number": 79,
+    "atomic-weight": 196.97,
+    "name": "Gold",
+    "abbr": "Au",
+    "type": "Transition Metal",
+    "stats": {
+      "melting": 1337,
+      "boiling": 3243,
+      "density": 19.3
+    },
+    "electron-ionisations": {
+      "configuration": "[Xe] 4f14 5d10 6s1",
+      "per-shell": "2, 8, 18, 32, 18, 1",
+      "oxidation-states": "5, 3, 2, 1, 1, 2, 3",
+      "ionisations": {
+        "first": 890.1,
+        "second": 1980,
+        "third": 0
+      }
+    },
+    "history": {
+      "year": "~6000 BC",
+      "person": "Unknown",
+      "brief": "Gold has been known from prehistoric times and was possibly the first metal used by humans. It was valued for ornaments and magical efficacy was attributed to it. In the Middle Ages alchemists sought to transmute baser metals into gold. The quest for gold stimulated European explorations and conquests, and its discovery has led to many a gold rush."
+    }
+  },
+  "80": {
+    "atomic-number": 80,
+    "atomic-weight": 200.59,
+    "name": "Mercury",
+    "abbr": "Hg",
+    "type": "Transition Metal",
+    "stats": {
+      "melting": 234,
+      "boiling": 630,
+      "density": 13.534
+    },
+    "electron-ionisations": {
+      "configuration": "[Xe] 4f14 5d10 6s2 ",
+      "per-shell": "2, 8, 18, 32, 8, 2",
+      "oxidation-states": "2, 1",
+      "ionisations": {
+        "first": 1007.1,
+        "second": 0,
+        "third": 0
+      }
+    },
+    "history": {
+      "year": "~1500 BC",
+      "person": "Unknown",
+      "brief": "Mercury was known to ancient Chinese and Hindus before 2000 BC and was found in tubes in Egyptian tombs dated from 1500 BC It was used to forma amalgams of other metals around 500 BC. The Greeks used mercury in ointments and the Romans used it, unfortunately for those using it, in cosmetics.\n"
+    }
+  },
+  "81": {
+    "atomic-number": 81,
+    "atomic-weight": 204.38,
+    "name": "Thallium",
+    "abbr": "Tl",
+    "type": "Post-Transition Metal",
+    "stats": {
+      "melting": 577,
+      "boiling": 1746,
+      "density": 11.85
+    },
+    "electron-ionisations": {
+      "configuration": "[Xe] 4f14 5d10 6s2 6p1",
+      "per-shell": "2, 8, 18, 32, 18, 3",
+      "oxidation-states": "3, 2, 1, 1, 2, 5",
+      "ionisations": {
+        "first": 589.4,
+        "second": 1971,
+        "third": 2878
+      }
+    },
+    "history": {
+      "year": 1861,
+      "person": "Sir William Crookes",
+      "brief": "Thallium was discovered spectroscopically in 1861 by Crookes. The element was named after the green spectral line, which identified the element (Greek \"thallos\", green twig). They had been expecting to isolate tellurium after removing selenium from the byproducts from a commercial sulphuric acid factory but instead found the new element thallium."
+    }
+  },
+  "82": {
+    "atomic-number": 82,
+    "atomic-weight": 207.2,
+    "name": "Lead",
+    "abbr": "Pb",
+    "type": "Post-Transition Metal",
+    "stats": {
+      "melting": 601,
+      "boiling": 2022,
+      "density": 11.34
+    },
+    "electron-ionisations": {
+      "configuration": "[Xe] 4f14 5d10 6s2 6p2",
+      "per-shell": " 2, 8, 18, 32, 18, 4",
+      "oxidation-states": "4, 3, 2, 1, 1, 2, 4",
+      "ionisations": {
+        "first": 715.6,
+        "second": 1450.5,
+        "third": 3081.5
+      }
+    },
+    "history": {
+      "year": "~7000 BC",
+      "person": "Unknown",
+      "brief": "Lead has been known for ages and is mentioned in Exodus. Alchemists believed lead to be the oldest metal and associated it with the planet Saturn. They spent a lot of time trying to \"transmute\" lead into gold."
+    }
+  },
+  "83": {
+    "atomic-number": 83,
+    "atomic-weight": 208.98,
+    "name": "Bismuth",
+    "abbr": "Bi",
+    "type": "Post-Transition Metal",
+    "stats": {
+      "melting": 545,
+      "boiling": 1837,
+      "density": 9.78
+    },
+    "electron-ionisations": {
+      "configuration": "[Xe] 4f14 5d10 6s2 6p3",
+      "per-shell": "2, 8, 18, 32, 18, 5",
+      "oxidation-states": "5, 4, 3, 2, 1, 1, 2, 3",
+      "ionisations": {
+        "first": 703,
+        "second": 1610,
+        "third": 2466
+      }
+    },
+    "history": {
+      "year": 1753,
+      "person": "Claude Geoffroy",
+      "brief": "In early times bismuth was confused with tin and lead. So although bismuth had been discussed many times before, Claude Geoffroy the Younger showed it to be distinct from lead in 1753."
+    }
+  },
+  "84": {
+    "atomic-number": 84,
+    "atomic-weight": 209,
+    "name": "Polonium",
+    "abbr": "Po",
+    "type": "Post-Transition Metal",
+    "stats": {
+      "melting": 527,
+      "boiling": 1235,
+      "density": 9.2
+    },
+    "electron-ionisations": {
+      "configuration": "[Xe] 4f14 5d10 6s2 6p4",
+      "per-shell": "2, 8, 18, 32, 18, 6",
+      "oxidation-states": "6, 5, 4, 2, 2",
+      "ionisations": {
+        "first": 812.1,
+        "second": 0,
+        "third": 0
+      }
+    },
+    "history": {
+      "year": 1898,
+      "person": "Marie Curie",
+      "brief": "The existence of this element had been forecast by the Mendeleev who could see from his periodic table that there might well be the element that followed bismuth and he predicted it would have an atomic weight of 212. The Curies had extracted the isotope polonium-209 and which has a half-life of 103 years."
+    }
+  },
+  "85": {
+    "atomic-number": 85,
+    "atomic-weight": 210,
+    "name": "Astatine",
+    "abbr": "At",
+    "type": "Metalloid",
+    "stats": {
+      "melting": 575,
+      "boiling": 610,
+      "density": 2
+    },
+    "electron-ionisations": {
+      "configuration": " [Xe] 4f14 5d10 6s2 6p5",
+      "per-shell": "2, 8, 18, 32, 18, 7",
+      "oxidation-states": "1, +1, +3, +5, +7",
+      "ionisations": {
+        "first": 899,
+        "second": 0,
+        "third": 0
+      }
+    },
+    "history": {
+      "year": 1940,
+      "person": "Dale Corson",
+      "brief": "Astatine was synthesized in 1940 by Dale Corson and others at the University of California, USA, by bombarding bismuth (209Bi) with α-particles."
+    }
+  },
+  "86": {
+    "atomic-number": 86,
+    "atomic-weight": 222,
+    "name": "Radon",
+    "abbr": "Rn",
+    "type": "Noble Gas",
+    "stats": {
+      "melting": 202,
+      "boiling": 212,
+      "density": 9.73
+    },
+    "electron-ionisations": {
+      "configuration": "[Xe] 4f14 5d10 6s2 6p6",
+      "per-shell": " 2, 8, 18, 32, 18, 8",
+      "oxidation-states": "6, 2, 0",
+      "ionisations": {
+        "first": 1037,
+        "second": 0,
+        "third": 0
+      }
+    },
+    "history": {
+      "year": 1900,
+      "person": "Friedrich Ernst Dorn ",
+      "brief": "In 1899, Ernest Rutherford and Robert B. Owens detected a radioactive gas being released by thorium. That same year, Pierre and Marie Curie detected a radioactive gas emanating from radium. In 1900, Friedrich Ernst Dorn at Halle, Germany, noted that a gas was accumulating inside ampoules of radium. They were observing radon."
+    }
+  },
+  "87": {
+    "atomic-number": 87,
+    "atomic-weight": 223,
+    "name": "Francium",
+    "abbr": "Fr",
+    "type": "Alkali Metal",
+    "stats": {
+      "melting": 294,
+      "boiling": 923,
+      "density": 2.83
+    },
+    "electron-ionisations": {
+      "configuration": "[Rn] 7s1",
+      "per-shell": "2, 8, 18, 32, 18, 8, 1",
+      "oxidation-states": 1,
+      "ionisations": {
+        "first": 380,
+        "second": 0,
+        "third": 0
+      }
+    },
+    "history": {
+      "year": 1939,
+      "person": "Marguerite Perey ",
+      "brief": "During the 1920s and 30s, these claims were made on the basis of unexplained radioactivity in minerals, or new lines in their X-ray spectra, but all eventually turned out not to be evidence of element 87."
+    }
+  },
+  "88": {
+    "atomic-number": 88,
+    "atomic-weight": 226,
+    "name": "Radium",
+    "abbr": "Ra",
+    "type": "Alkali Earth Metal",
+    "stats": {
+      "melting": 973,
+      "boiling": 2010,
+      "density": 5.5
+    },
+    "electron-ionisations": {
+      "configuration": "[Rn] 7s2",
+      "per-shell": "2, 8, 18, 32, 18, 8, 2",
+      "oxidation-states": 2,
+      "ionisations": {
+        "first": 509.3,
+        "second": 979,
+        "third": 0
+      }
+    },
+    "history": {
+      "year": 1898,
+      "person": "Marie Curie, Pierre CuriePerey ",
+      "brief": "Radium was discovered in 1898 by Marie and Pierre Curie in pitchblende (or uraninite) from North Bohemia. The element was isolated in 1911 by Mme. Curie and Debierne by the electrolysis of a solution of pure radium chloride, employing a mercury cathode. On distillation in an atmosphere of hydrogen this amalgam yielded the pure metal."
+    }
+  },
+  "89": {
+    "atomic-number": 89,
+    "atomic-weight": 227,
+    "name": "Actinium",
+    "abbr": "Ac",
+    "type": "Actinide",
+    "stats": {
+      "melting": 1500,
+      "boiling": 3500,
+      "density": 10
+    },
+    "electron-ionisations": {
+      "configuration": "[Rn] 6d1 7s2",
+      "per-shell": "2, 8, 18, 32, 18, 9, 2",
+      "oxidation-states": "3, 2",
+      "ionisations": {
+        "first": 499,
+        "second": 1170,
+        "third": 1900
+      }
+    },
+    "history": {
+      "year": 1899,
+      "person": "Andre Debierne",
+      "brief": "Actinium was discovered by Andre Debierne in 1899 and independently by F. Giesel in 1902, both of whom obtained it while working on separation techniques for rare earth oxides."
+    }
+  },
+  "90": {
+    "atomic-number": 90,
+    "atomic-weight": 232.04,
+    "name": "Thorium",
+    "abbr": "Th",
+    "type": "Actinide",
+    "stats": {
+      "melting": 2023,
+      "boiling": 5061,
+      "density": 11.7
+    },
+    "electron-ionisations": {
+      "configuration": "[Rn] 6d2 7s2",
+      "per-shell": "2, 8, 18, 32, 18, 10, 2",
+      "oxidation-states": "4, 3, 2, 1",
+      "ionisations": {
+        "first": 587,
+        "second": 1110,
+        "third": 1978
+      }
+    },
+    "history": {
+      "year": 1828,
+      "person": "Berzelius",
+      "brief": "Thorium was discovered by Berzelius in 1828 in a mineral given to him by the Reverend Has Morten Thrane Esmark."
+    }
+  },
+  "91": {
+    "atomic-number": 91,
+    "atomic-weight": 231.04,
+    "name": "Protactinium",
+    "abbr": "Pa",
+    "type": "Actinide",
+    "stats": {
+      "melting": 1841,
+      "boiling": 4300,
+      "density": 15.37
+    },
+    "electron-ionisations": {
+      "configuration": "[Rn] 5f2 6d1 7s2",
+      "per-shell": "2, 8, 18, 32, 20, 9, 2",
+      "oxidation-states": "2, 3, 4, 5",
+      "ionisations": {
+        "first": 568,
+        "second": 1128,
+        "third": 1814
+      }
+    },
+    "history": {
+      "year": 1913,
+      "person": "Hahn, Meitner, Soddy, Cranston",
+      "brief": "Protactinium is found in pitchblende and ores form Zaire and is one of the rarest and most expensive naturally occurring elements. Protactinium was identified by Fajans and Göhring in 1913 who named the new element brevium (\"brief\")."
+    }
+  },
+  "92": {
+    "atomic-number": 92,
+    "atomic-weight": 238.03,
+    "name": "Uranium",
+    "abbr": "U",
+    "type": "Actinide",
+    "stats": {
+      "melting": 1405,
+      "boiling": 4404,
+      "density": 19.1
+    },
+    "electron-ionisations": {
+      "configuration": "[Rn] 5f3 6d1 7s2",
+      "per-shell": "2, 8, 18, 32, 21, 9, 2",
+      "oxidation-states": "6, 5, 4, 3, 2, 1",
+      "ionisations": {
+        "first": 597.6,
+        "second": 1420,
+        "third": 1900
+      }
+    },
+    "history": {
+      "year": 1789,
+      "person": "Martin Klaproth",
+      "brief": "Klaproth recognized an unknown element in pitchblende and attempted to isolate the metal in 1789. He named the element for the planet uranus which had just been discovered. The radioactive nature of uranium was not appreciated for another 55 years when in 1896 Henri Becquerel detected its radioactivity."
+    }
+  },
+  "93": {
+    "atomic-number": 93,
+    "atomic-weight": 237,
+    "name": "Neptunium",
+    "abbr": "Np",
+    "type": "Actinide",
+    "stats": {
+      "melting": 912,
+      "boiling": 4447,
+      "density": 20.2
+    },
+    "electron-ionisations": {
+      "configuration": "[Rn] 5f4 6d1 7s2",
+      "per-shell": "2, 8, 18, 32, 22, 9, 2",
+      "oxidation-states": "7, 6, 5, 4, 3, 2",
+      "ionisations": {
+        "first": 604.5,
+        "second": 1128,
+        "third": 1997
+      }
+    },
+    "history": {
+      "year": 1940,
+      "person": "McMillan, Abelson",
+      "brief": "Neptunium was the first synthetic transuranium element of the actinide series. It was discovered by McMillan and Abelson in 1940 at Berkeley, California, USA, who bombarded uranium with neutrons produced from a cyclotron. It was the first synthetic transuranium (elements after uranium) element discovered."
+    }
+  },
+  "94": {
+    "atomic-number": 94,
+    "atomic-weight": 244,
+    "name": "Plutonium",
+    "abbr": "Pu",
+    "type": "Actinide",
+    "stats": {
+      "melting": 913,
+      "boiling": 3505,
+      "density": 19.816
+    },
+    "electron-ionisations": {
+      "configuration": "[Rn] 5f6 7s2",
+      "per-shell": "2, 8, 18, 32, 24, 8, 2",
+      "oxidation-states": "8, 7, 6, 5, 4, 3, 2, 1",
+      "ionisations": {
+        "first": 584.7,
+        "second": 1128,
+        "third": 2084
+      }
+    },
+    "history": {
+      "year": 1940,
+      "person": "Seaborg, McMillan, Kennedy, Wahl",
+      "brief": "Plutonium was synthesized by Seaborg, McMillan, Kennedy and Wahl in 1940 by deuteron bombardment of uranium in a cyclotron (a device used to accelerate atomic particles) at Berkeley, USA. Plutonium was the second transuranium element of the actinide series to be discovered."
+    }
+  },
+  "95": {
+    "atomic-number": 95,
+    "atomic-weight": 243,
+    "name": "Americium",
+    "abbr": "Am",
+    "type": "Actinide",
+    "stats": {
+      "melting": 1449,
+      "boiling": 2880,
+      "density": 12
+    },
+    "electron-ionisations": {
+      "configuration": "[Rn] 5f7 7s2",
+      "per-shell": "2, 8, 18, 32, 25, 8, 2",
+      "oxidation-states": "8, 7, 6, 5, 4, 3, 2",
+      "ionisations": {
+        "first": 578,
+        "second": 1158,
+        "third": 2132
+      }
+    },
+    "history": {
+      "year": 1944,
+      "person": "Glenn Seaborg",
+      "brief": "Americium was was identified by Seaborg and others in 1944 as the result of successive neutron capture reactions by plutonium isotopes in a nuclear reactor."
+    }
+  },
+  "96": {
+    "atomic-number": 96,
+    "atomic-weight": 247,
+    "name": "Curium",
+    "abbr": "Cm",
+    "type": "Actinide",
+    "stats": {
+      "melting": 1613,
+      "boiling": 3383,
+      "density": 13.51
+    },
+    "electron-ionisations": {
+      "configuration": " [Rn] 5f7 6d1 7s2",
+      "per-shell": "2, 8, 18, 32, 25, 9, 2",
+      "oxidation-states": "6, 4, 3, 2",
+      "ionisations": {
+        "first": 581,
+        "second": 1196,
+        "third": 2026
+      }
+    },
+    "history": {
+      "year": 1944,
+      "person": "Glenn Seaborg",
+      "brief": "Americium was was identified by Seaborg and others in 1944 as the result of successive neutron capture reactions by plutonium isotopes in a nuclear reactor."
+    }
+  },
+  "97": {
+    "atomic-number": 97,
+    "atomic-weight": 247,
+    "name": "Berkelium",
+    "abbr": "Bk",
+    "type": "Actinide",
+    "stats": {
+      "melting": 1259,
+      "boiling": "Unknown ",
+      "density": 14.78
+    },
+    "electron-ionisations": {
+      "configuration": "[Rn] 5f9 7s2",
+      "per-shell": "2, 8, 18, 32, 27, 8, 2",
+      "oxidation-states": "2, 3, 4",
+      "ionisations": {
+        "first": 601,
+        "second": 1186,
+        "third": 2152
+      }
+    },
+    "history": {
+      "year": 1949,
+      "person": "Albert Ghiorso",
+      "brief": "Berkelium was discovered in December 1949 at Berkeley, California, USA, by Ghiorso and others by cyclotron bombardment of milligram amounts of americium with helium ions. Perhaps the first visible amounts of a pure berkelium compound, berkelium chloride, was produced in 1962. It weighed just 3 billionth of a gram."
+    }
+  },
+  "98": {
+    "atomic-number": 98,
+    "atomic-weight": 251,
+    "name": "Californium",
+    "abbr": "Cf",
+    "type": "Actinide",
+    "stats": {
+      "melting": 1173,
+      "boiling": 1743,
+      "density": 15.1
+    },
+    "electron-ionisations": {
+      "configuration": "[Rn] 5f10 7s2",
+      "per-shell": "2, 8, 18, 32, 28, 8, 2",
+      "oxidation-states": "2, 3, 4",
+      "ionisations": {
+        "first": 608,
+        "second": 1206,
+        "third": 2267
+      }
+    },
+    "history": {
+      "year": 1950,
+      "person": "Albert Ghiorso",
+      "brief": "Californium was produced by Ghiorso and others at the University of California, Berkeley, USA in 1950 who bombarded 242Cm with helium ions."
+    }
+  },
+  "99": {
+    "atomic-number": 99,
+    "atomic-weight": 252,
+    "name": "Einsteinium",
+    "abbr": "Es",
+    "type": "Actinide",
+    "stats": {
+      "melting": 1133,
+      "boiling": 1269,
+      "density": 8.84
+    },
+    "electron-ionisations": {
+      "configuration": "[Rn] 5f11 7s2",
+      "per-shell": "2, 8, 18, 32, 29, 8, 2",
+      "oxidation-states": "2, 3, 4",
+      "ionisations": {
+        "first": 619,
+        "second": 1216,
+        "third": 2334
+      }
+    },
+    "history": {
+      "year": 1952,
+      "person": "Albert Ghiorso",
+      "brief": "Einsteinium was identified by Ghiorso and others (Berkeley, California, USA) in 1952 in radioactive debris from the first large thermonuclear bomb explosion, which took place in the Pacific in November 1952. In 1961, a sufficient amount of einsteinium was produced to permit separation of a macroscopic amount of 253Es."
+    }
+  },
+  "100": {
+    "atomic-number": 100,
+    "atomic-weight": 257,
+    "name": "Fermium",
+    "abbr": "Fm",
+    "type": "Actinide",
+    "stats": {
+      "melting": 1800,
+      "boiling": 1469,
+      "density": 9.71
+    },
+    "electron-ionisations": {
+      "configuration": "[Rn] 5f12 7s2",
+      "per-shell": "2, 8, 18, 32, 30, 8, 2",
+      "oxidation-states": "2, 3",
+      "ionisations": {
+        "first": 627,
+        "second": 1225,
+        "third": 2363
+      }
+    },
+    "history": {
+      "year": 1952,
+      "person": "Albert Ghiorso",
+      "brief": "Fermium was identified by Ghiorso and coworkers (Berkeley, California, USA) in 1952 in the radioactive debris from a thermonuclear explosion in the Pacific. Somewhat remarkably, the fermium isotope discovered was made through the combination of 238U with 17 neutrons. Today, many isotopes are known spanning the mass range 243-258."
+    }
+  },
+  "101": {
+    "atomic-number": 101,
+    "atomic-weight": 258,
+    "name": "Mendelevium",
+    "abbr": "Md",
+    "type": "Actinide",
+    "stats": {
+      "melting": 1100,
+      "boiling": 1469,
+      "density": 10.37
+    },
+    "electron-ionisations": {
+      "configuration": "[Rn] 5f13 7s2",
+      "per-shell": "2, 8, 18, 32, 31, 8, 2",
+      "oxidation-states": "2, 3",
+      "ionisations": {
+        "first": 635,
+        "second": 1235,
+        "third": 2470
+      }
+    },
+    "history": {
+      "year": 1955,
+      "person": "Seaborg",
+      "brief": "Mendelevium, the ninth transuranium element of the actinide series to be discovered, was first identified by Seaborg and others in 1955 as a product of the bombardment of the einsteinium isotope 253Es with helium ions. The isotope produced was 256Md, which has a half-life of about 11/4 hours."
+    }
+  },
+  "102": {
+    "atomic-number": 102,
+    "atomic-weight": 259,
+    "name": "Nobelium",
+    "abbr": "No",
+    "type": "Actinide",
+    "stats": {
+      "melting": 1100,
+      "boiling": 1469,
+      "density": 9.94
+    },
+    "electron-ionisations": {
+      "configuration": "[Rn] 5f14 7s2",
+      "per-shell": "2, 8, 18, 32, 32, 8, 2",
+      "oxidation-states": "2, 3",
+      "ionisations": {
+        "first": 642,
+        "second": 1254,
+        "third": 2643
+      }
+    },
+    "history": {
+      "year": 1956,
+      "person": " Georgy Flerov",
+      "brief": "This element’s history is one of controversy. In 1956, a team led by Georgy Flerov at the Institute of Atomic Energy, Moscow, synthesised element 102 by bombarding plutonium with oxygen and got atoms of element 102, isotope-252. However, they did not report their success."
+    }
+  },
+  "103": {
+    "atomic-number": 103,
+    "atomic-weight": 262,
+    "name": "Lawrencium",
+    "abbr": "Lr",
+    "type": "Actinide",
+    "stats": {
+      "melting": 1900,
+      "boiling": 1469,
+      "density": 15.6
+    },
+    "electron-ionisations": {
+      "configuration": "[Rn] 5f14 7s2 7p1",
+      "per-shell": "2, 8, 18, 32, 32, 8, 3",
+      "oxidation-states": 3,
+      "ionisations": {
+        "first": 470,
+        "second": 1428,
+        "third": 2228
+      }
+    },
+    "history": {
+      "year": 1961,
+      "person": "University of California, Berkeley",
+      "brief": "Element 103, lawrencium, was discovered in 1961 by Ghiorso and others in Berkeley, California, USA, who bombarded a californium target with boron ions. They obtained perhaps two micrograms. Several lawrencium isotopes including those with masses 253, 254, 255, 256, 257, 258, 259, and 260 are known now."
+    }
+  },
+  "104": {
+    "atomic-number": 104,
+    "atomic-weight": 267,
+    "name": "Rutherfordium",
+    "abbr": "Rf",
+    "type": "Transition Metal",
+    "stats": {
+      "melting": 2400,
+      "boiling": 5800,
+      "density": 23.2
+    },
+    "electron-ionisations": {
+      "configuration": "[Rn] 5f14 6d2 7s2",
+      "per-shell": "2, 8, 18, 32, 32, 10, 2",
+      "oxidation-states": "4, (3), (2)",
+      "ionisations": {
+        "first": 579.9,
+        "second": 1389.4,
+        "third": 2296.4
+      }
+    },
+    "history": {
+      "year": 1969,
+      "person": "University of California, Berkeley",
+      "brief": "In 1969 an American group at Berkeley (California) in the USA reported isotopes of Element 104. Their experiments involved reaction high energy collisions between 249Cf and 12C. The group also indicated that they were unable to reproduce the earlier Russian synthesis from1964. The American group proposed for the new element the name Rutherfordium."
+    }
+  },
+  "105": {
+    "atomic-number": 105,
+    "atomic-weight": 268,
+    "name": "Dubnium",
+    "abbr": "Db",
+    "type": "Transition Metal",
+    "stats": {
+      "melting": "Unknown",
+      "boiling": "Unknown",
+      "density": 29.3
+    },
+    "electron-ionisations": {
+      "configuration": "[Rn] 5f14 6d3 7s2",
+      "per-shell": "2, 8, 18, 32, 32, 10, 2",
+      "oxidation-states": "5, (4), (3)",
+      "ionisations": {
+        "first": 664.8,
+        "second": 1546.7,
+        "third": 2378.4
+      }
+    },
+    "history": {
+      "year": 1967,
+      "person": "Joint Research Institute, Russia",
+      "brief": "In 1967, Flerov reported element 105 after experiments at the Joint Research Institute in Russia involving reactions between 243Am ions with 22Ne ions. In 1970, Ghiorso and others announced their synthesis of dubnium at Berkeley (California) in the USA. This method involved the collsion of 249Cf ions with 15N ions."
+    }
+  },
+  "106": {
+    "atomic-number": 106,
+    "atomic-weight": 271,
+    "name": "Seaborgium",
+    "abbr": "Sg",
+    "type": "Transition Metal",
+    "stats": {
+      "melting": "Unknown",
+      "boiling": "Unknown",
+      "density": 35
+    },
+    "electron-ionisations": {
+      "configuration": "[Rn] 5f14 6d4 7s2",
+      "per-shell": "2, 8, 18, 32, 32, 12, 2",
+      "oxidation-states": "6, (5), (4), (3), 0",
+      "ionisations": {
+        "first": 742.9,
+        "second": 1688.5,
+        "third": 2566.5
+      }
+    },
+    "history": {
+      "year": 1974,
+      "person": "Lawrence Berkeley Laboratory",
+      "brief": "Transuranium elements such as seaborgium can be created artificially in particle accelerators. Isotopes of seaborgium have short half-lives of less than a second. The first report of element 106 came in 1974 from the Soviet Joint Institute for Nuclear Research and these were followed later by others from Berkeley in California, USA."
+    }
+  },
+  "107": {
+    "atomic-number": 107,
+    "atomic-weight": 272,
+    "name": "Bohrium",
+    "abbr": "Bh",
+    "type": "Transition Metal",
+    "stats": {
+      "melting": "Unknown",
+      "boiling": "Unknown",
+      "density": 37.1
+    },
+    "electron-ionisations": {
+      "configuration": "[Rn] 5f14 6d5 7s2",
+      "per-shell": "2, 8, 18, 32, 32, 13, 2",
+      "oxidation-states": "7, (5), (4), (3)",
+      "ionisations": {
+        "first": 757.4,
+        "second": 1732.9,
+        "third": 2483.5
+      }
+    },
+    "history": {
+      "year": 1976,
+      "person": "Gesellschaft für Schwerionenforschung",
+      "brief": "Scientists from the USSR reported their production of an isotope of bohrium in 1976 and this work was substantiated by German workers later."
+    }
+  },
+  "108": {
+    "atomic-number": 108,
+    "atomic-weight": 270,
+    "name": "Hassium",
+    "abbr": "Hs",
+    "type": "Transition Metal",
+    "stats": {
+      "melting": "Unknown",
+      "boiling": "Unknown",
+      "density": 41
+    },
+    "electron-ionisations": {
+      "configuration": "[Rn] 5f14 6d6 7s2",
+      "per-shell": "2, 8, 18, 32, 32, 14, 2",
+      "oxidation-states": "8, (6), (5), (4), (3), (2)",
+      "ionisations": {
+        "first": 733.3,
+        "second": 1756,
+        "third": 2827
+      }
+    },
+    "history": {
+      "year": 1984,
+      "person": "Gesellschaft für Schwerionenforschung",
+      "brief": "Hassium was discovered by Peter Armbruster, Gottfried Münzenberg and their co-workers. at 1984 in Gesellschaft für Schwerionenforschung (GSI) in Darmstadt, Germany.The origin of the name is the Latin word \"Hassias\" meaning \"Hess\", the German state."
+    }
+  },
+  "109": {
+    "atomic-number": 109,
+    "atomic-weight": 276,
+    "name": "Meitnerium",
+    "abbr": "Mt",
+    "type": "Transition Metal",
+    "stats": {
+      "melting": "Unknown",
+      "boiling": "Unknown",
+      "density": 37.4
+    },
+    "electron-ionisations": {
+      "configuration": "[Rn] 5f14 6d7 7s2",
+      "per-shell": "2, 8, 18, 32, 32, 15, 2 (predicted)",
+      "oxidation-states": "9, 8, 6, 4, 3, 1",
+      "ionisations": {
+        "first": 800.8,
+        "second": 1823.6,
+        "third": 2904.2
+      }
+    },
+    "history": {
+      "year": 1982,
+      "person": "Gesellschaft für Schwerionenforschung",
+      "brief": "In August 1982 the first atom of the element meitnerium with atomic number 109 was detected at the Gesellschaft für Schwerionenforschung (GSI) in Darmstadt, Germany. The isotope of element 109 which was discovered has an atomic mass number of 266 (that is, 266 times heavier than hydrogen)."
+    }
+  },
+  "110": {
+    "atomic-number": 110,
+    "atomic-weight": 281,
+    "name": "Darmstadtium",
+    "abbr": "Ds",
+    "type": "Transition Metal",
+    "stats": {
+      "melting": "Unknown",
+      "boiling": "Unknown",
+      "density": 34.8
+    },
+    "electron-ionisations": {
+      "configuration": "[Rn] 5f14 6d8 7s2",
+      "per-shell": "2, 8, 18, 32, 32, 16, 2 (predicted)",
+      "oxidation-states": "8, 6, 4, 2, 0",
+      "ionisations": {
+        "first": 955.2,
+        "second": 1891.1,
+        "third": 3029.6
+      }
+    },
+    "history": {
+      "year": 1994,
+      "person": "Gesellschaft für Schwerionenforschung",
+      "brief": "In 1994 the first atom of element 110, darmstadtium, was detected at the Gesellschaft für Schwerionenforschung (GSI) in Darmstadt, Germany. The isotope discovered has an atomic number of 269 (that is, 269 times heavier than hydrogen)."
+    }
+  },
+  "111": {
+    "atomic-number": 111,
+    "atomic-weight": 280,
+    "name": "Roentgenium",
+    "abbr": "Rg",
+    "type": "Transition Metal",
+    "stats": {
+      "melting": "Unknown",
+      "boiling": "Unknown",
+      "density": 28.7
+    },
+    "electron-ionisations": {
+      "configuration": "[Rn] 5f14 6d9 7s2 (predicted)",
+      "per-shell": "2, 8, 18, 32, 32, 17, 2 (predicted)",
+      "oxidation-states": "5, 3, 1, 1",
+      "ionisations": {
+        "first": 1022.7,
+        "second": 2074.4,
+        "third": 3077.9
+      }
+    },
+    "history": {
+      "year": 1994,
+      "person": "Gesellschaft für Schwerionenforschung",
+      "brief": "In 1994 the first atom of element 110, darmstadtium, was detected at the Gesellschaft für Schwerionenforschung (GSI) in Darmstadt, Germany. The isotope discovered has an atomic number of 269 (that is, 269 times heavier than hydrogen)."
+    }
+  },
+  "112": {
+    "atomic-number": 112,
+    "atomic-weight": 285,
+    "name": "Copernicium",
+    "abbr": "Cn",
+    "type": "Transition Metal",
+    "stats": {
+      "melting": "Unknown",
+      "boiling": 357,
+      "density": 23.7
+    },
+    "electron-ionisations": {
+      "configuration": "[Rn] 5f14 6d10 7s2 (predicted)",
+      "per-shell": "2, 8, 18, 32, 32, 18, 2 (predicted)",
+      "oxidation-states": "2, (1), 0",
+      "ionisations": {
+        "first": 1154.9,
+        "second": 2170,
+        "third": 3164.7
+      }
+    },
+    "history": {
+      "year": 1996,
+      "person": "Gesellschaft für Schwerionenforschung",
+      "brief": "Element 112 (provisionally named copernicium, Cn) was discovered on 9th February 1996 at 22:37 at the GSI in Darmstadt, Germany. The identified isotope currently is the heaviest atom ever produced by man and has an atomic mass of 277, that is, 277 times heavier than hydrogen."
+    }
+  },
+  "113": {
+    "atomic-number": 113,
+    "atomic-weight": 284,
+    "name": "Nihonium",
+    "abbr": "Nh",
+    "type": "Post-Transition Metal",
+    "stats": {
+      "melting": 700,
+      "boiling": 1430,
+      "density": 16
+    },
+    "electron-ionisations": {
+      "configuration": "[Rn] 5f14 6d10 7s2 7p1 (predicted)",
+      "per-shell": "2, 8, 18, 32, 32, 18, 3 (predicted)",
+      "oxidation-states": "1, 1, 3, 5",
+      "ionisations": {
+        "first": 704.9,
+        "second": 2238.5,
+        "third": 3023.3
+      }
+    },
+    "history": {
+      "year": 2003,
+      "person": "Joint Research Institute, Russia",
+      "brief": "In experiments conducted at the JINR U400 cyclotron with the Dubna gas-filled separator between July 14 and Aug. 10, 2003, atomic decay patterns were observed said to confirm the existence of element 115 and element 113. In these decay chains, element 113 is produced via the α-decay of element 115."
+    }
+  },
+  "114": {
+    "atomic-number": 114,
+    "atomic-weight": 289,
+    "name": "Flerovium",
+    "abbr": "Fl",
+    "type": "Post-Transition Metal",
+    "stats": {
+      "melting": 340,
+      "boiling": 420,
+      "density": 14
+    },
+    "electron-ionisations": {
+      "configuration": "[Rn] 5f14 6d10 7s2 7p2 (predicted)",
+      "per-shell": "2, 8, 18, 32, 32, 18, 4 (predicted)",
+      "oxidation-states": "0, 1, 2, 4, 6",
+      "ionisations": {
+        "first": 823.9,
+        "second": 1601.6,
+        "third": 3367.3
+      }
+    },
+    "history": {
+      "year": 1998,
+      "person": "Joint Research Institute, Russia",
+      "brief": "Only one atom of element 114 (289114Uuq)has ever been made (through a nuclear reaction involving fusing a calcium atom with a plutonium atom) isolation of an observable quantity has never been achieved, and may well never be"
+    }
+  },
+  "115": {
+    "atomic-number": 115,
+    "atomic-weight": 288,
+    "name": "Moscovium",
+    "abbr": "Mc",
+    "type": "Post-Transition Metal",
+    "stats": {
+      "melting": 670,
+      "boiling": "Unknown",
+      "density": 13.5
+    },
+    "electron-ionisations": {
+      "configuration": "[Rn] 5f14 6d10 7s2 7p3 (predicted)",
+      "per-shell": "2, 8, 18, 32, 32, 18, 5 (predicted)",
+      "oxidation-states": "1, 3",
+      "ionisations": {
+        "first": 538.4,
+        "second": 1756,
+        "third": 2653.3
+      }
+    },
+    "history": {
+      "year": 2003,
+      "person": "Joint Research Institute, Russia",
+      "brief": "In experiments conducted at the JINR U400 cyclotron with the Dubna gas-filled separator between July 14 and Aug. 10, 2003, atomic decay patterns were observed said to confirm the existence of element 115 and element 113. In these decay chains, element 113 is produced via the α-decay of element 115."
+    }
+  },
+  "116": {
+    "atomic-number": 116,
+    "atomic-weight": 293,
+    "name": "Livermorium",
+    "abbr": "Lv",
+    "type": "Post-Transition Metal",
+    "stats": {
+      "melting": 637,
+      "boiling": 1035,
+      "density": 12.9
+    },
+    "electron-ionisations": {
+      "configuration": "[Rn] 5f14 6d10 7s2 7p4 (predicted)",
+      "per-shell": "2, 8, 18, 32, 32, 18, 6 (predicted)",
+      "oxidation-states": "2, +2, +4",
+      "ionisations": {
+        "first": 723.6,
+        "second": 1331.5,
+        "third": 2846.3
+      }
+    },
+    "history": {
+      "year": 2000,
+      "person": "Russia - USA Collaboration",
+      "brief": "Results published on the 6th December 2000 concerning recent experiments at Dubna in Russia describe the decay of the isotope 292Uuh (produced in the reaction of 248Cm with 48Ca) to 292Uuq. This decayed 47 milliseconds later as follows to a previously identified isotope of elements 114, Uuq."
+    }
+  },
+  "117": {
+    "atomic-number": 117,
+    "atomic-weight": 294,
+    "name": "Tennessine",
+    "abbr": "Ts",
+    "type": "Post-Transition Metal",
+    "stats": {
+      "melting": 623,
+      "boiling": 883,
+      "density": 7.17
+    },
+    "electron-ionisations": {
+      "configuration": "[Rn] 5f14 6d10 7s2 7p5 (predicted)",
+      "per-shell": "2, 8, 18, 32, 32, 18, 7 (predicted)",
+      "oxidation-states": "1, +1, +3, +5",
+      "ionisations": {
+        "first": 742.9,
+        "second": 1852.6,
+        "third": 0
+      }
+    },
+    "history": {
+      "year": 2010,
+      "person": "Russia - USA Collaboration",
+      "brief": "Claims for the formation of element 117 (ununseptium, Uus) were first published in April 2010."
+    }
+  },
+  "118": {
+    "atomic-number": 118,
+    "atomic-weight": 294,
+    "name": "Oganesson",
+    "abbr": "Og",
+    "type": "Noble Gas",
+    "stats": {
+      "melting": "Unknown",
+      "boiling": 350,
+      "density": 4.95
+    },
+    "electron-ionisations": {
+      "configuration": "[Rn] 5f14 6d10 7s2 7p6 (predicted)",
+      "per-shell": "2, 8, 18, 32, 32, 18, 8 (predicted)",
+      "oxidation-states": "1, 0, +1, +2, +4, +6",
+      "ionisations": {
+        "first": 839.4,
+        "second": 1563.1,
+        "third": 0
+      }
+    },
+    "history": {
+      "year": 2002,
+      "person": "Russia - USA Collaboration",
+      "brief": "Experiments conducted at Dubna in Russia at the Flerov Laboratory of Nuclear Reactions (by workers from the Joint Institute for Nuclear Research in Russia and the Lawrence Livermore National Laboratory in the USA) indicate that element 118 (ununoctium, Uuo) was produced. Not too much though, one atom in the spring of 2002 and two more in 2005."
+    }
+  }
+}
