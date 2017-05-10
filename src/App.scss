@@ -80,35 +80,40 @@
     width: 60%;
     display: inline-block;
     margin-top: 25px;
+    padding-top: 13px;
     padding-right: 10px;
+    background-color: rgba(255, 255, 255, 0.3);
 
-    .atomic-weight,
-    .boiling-point,
-    .melting-point {
-      display: inline-block;
+    .stats {
+      .atomic-weight,
+      .boiling-point,
+      .melting-point {
+        display: inline-block;
 
-      img {
-        height: 50px;
-        text-align: center;
+        img {
+          height: 50px;
+          text-align: center;
+        }
+
+        div {
+          width: 100px;
+          margin-top: 10px;
+          text-align: center;
+          color: $background-gray;
+        }
       }
 
-      div {
-        width: 100px;
-        margin-top: 10px;
-        text-align: center;
-      }
-    }
+      .density {
+        display: inline-block;
 
-    .density {
-      display: inline-block;
+        img {
+          height: 50px;
+          text-align: center;
+        }
 
-      img {
-        height: 50px;
-        text-align: center;
-      }
-
-      div {
-        width: 100px;
+        div {
+          width: 100px;
+        }
       }
     }
   }
@@ -117,6 +122,27 @@
 .details {
   display: none;
   background-color: $element-green;
+}
+
+.menu {
+  position: absolute;
+  margin-top: -32px;
+  font-weight: bold;
+  font-size: 14px;
+  z-index: 100;
+
+  span {
+    padding: 3px 20px;
+    color: $background-gray;
+    color: rgba($background-gray, 0.5);
+
+    cursor: pointer;
+  }
+
+  .selected {
+    background-color: rgba(255, 255, 255, 0.3);
+    color: $background-gray;
+  }
 }
 
 .settings {
@@ -229,5 +255,24 @@
   &:hover {
     box-shadow: inset 0 0 0 5px lighten($element-purple, 15%);
     cursor: pointer;
+  }
+}
+/* Tooltip container */
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+
+  .tooltiptext {
+    position: absolute;
+    z-index: 1;
+    bottom: -25%;
+    left: 50%;
+    margin-left: -60px;
+    width: 120px;
+    color: #fff;
+    padding: 2px 0;
+    font-size: 12px;
+    font-weight: bold;
   }
 }

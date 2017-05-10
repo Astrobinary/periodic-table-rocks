@@ -54,6 +54,18 @@ class App extends Component {
 
   //Sets the active element as a state.
   activeElement(selected) {
+
+    let meltingTemp = selected.stats.melting;
+    let boilTemp = selected.stats.boiling;
+
+    if (selected.stats.melting !== "Unknown") {
+      meltingTemp = selected.stats["melting"] + " K"
+    }
+
+    if (selected.stats.boiling !== "Unknown") {
+      boilTemp = selected.stats["boiling"] + " K"
+    }
+
     this.setState({
       element: {
         name: selected["name"],
@@ -62,8 +74,8 @@ class App extends Component {
         weight: selected["atomic-weight"],
         type: selected["type"],
         stats: {
-          melting: selected.stats["melting"],
-          boiling: selected.stats["boiling"],
+          melting: meltingTemp,
+          boiling: boilTemp,
           density: selected.stats["density"]
         },
         electron: {
@@ -204,26 +216,33 @@ class App extends Component {
                 </div>
 
                 <div className="info-badge">
-                  <div className="atomic-weight">
-                    <img alt="weight" src={weightIcon}/>
-                    <div>{this.state.element.weight}</div>
-                  </div>
-                  <div className="density">
-                    <img alt="weight" src={densitytIcon}/>
-                    <div>{this.state.element.stats.density}
-                       &nbsp;g/cm<sup>3</sup>
-                    </div>
 
+                  <div className="menu">
+                    <span className="selected">Basic stats</span>
+                    <span>Electrons and Ionisation</span>
+                    <span>History</span>
                   </div>
-                  <div className="melting-point">
-                    <img alt="weight" src={meltingIcon}/>
-                    <div>{this.state.element.stats.melting}
-                       &nbsp;K</div>
-                  </div>
-                  <div className="boiling-point">
-                    <img alt="weight" src={boilingIcon}/>
-                    <div>{this.state.element.stats.boiling}
-                       &nbsp;K</div>
+
+                  <div className="stats">
+                    <div className="atomic-weight">
+                      <img alt="weight" src={weightIcon}/>
+                      <div>{this.state.element.weight}</div>
+                    </div>
+                    <div className="density">
+                      <img alt="weight" src={densitytIcon}/>
+                      <div>{this.state.element.stats.density}
+                        &nbsp;g/cm<sup>3</sup>
+                      </div>
+
+                    </div>
+                    <div className="melting-point">
+                      <img alt="weight" src={meltingIcon}/>
+                      <div>{this.state.element.stats.melting}</div>
+                    </div>
+                    <div className="boiling-point">
+                      <img alt="weight" src={boilingIcon}/>
+                      <div>{this.state.element.stats.boiling}</div>
+                    </div>
                   </div>
                 </div>
 

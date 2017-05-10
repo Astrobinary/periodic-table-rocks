@@ -2596,7 +2596,7 @@
     "type": "Actinide",
     "stats": {
       "melting": 1259,
-      "boiling": "Unknown ",
+      "boiling": "Unknown",
       "density": 14.78
     },
     "electron-ionisations": {
