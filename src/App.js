@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import ReactTooltip from 'react-tooltip'
 import logo from './logo.svg';
 import './App.scss';
 import data from './rocks.json'
@@ -161,10 +162,14 @@ class App extends Component {
     }
   }
 
+  showToolTip(){
+
+  }
+
   render() {
     return (
       <div onClick={this.clearClick} className="App">
-
+        <ReactTooltip offset={{top: 25}}  className="tooltip"/>
         <div className="table">
           {/* Row 1 */}
           <div className="row">
@@ -224,22 +229,22 @@ class App extends Component {
                   </div>
 
                   <div className="stats">
-                    <div className="atomic-weight">
+                    <div data-tip="Atomic weight" className="atomic-weight">
                       <img alt="weight" src={weightIcon}/>
                       <div>{this.state.element.weight}</div>
                     </div>
-                    <div className="density">
+                    <div data-tip="Density" className="density">
                       <img alt="weight" src={densitytIcon}/>
                       <div>{this.state.element.stats.density}
                         &nbsp;g/cm<sup>3</sup>
                       </div>
 
                     </div>
-                    <div className="melting-point">
+                    <div data-tip="Melting point" className="melting-point">
                       <img alt="weight" src={meltingIcon}/>
                       <div>{this.state.element.stats.melting}</div>
                     </div>
-                    <div className="boiling-point">
+                    <div data-tip="Boiling point" className="boiling-point">
                       <img alt="weight" src={boilingIcon}/>
                       <div>{this.state.element.stats.boiling}</div>
                     </div>

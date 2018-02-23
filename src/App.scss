@@ -135,7 +135,6 @@
     padding: 3px 20px;
     color: $background-gray;
     color: rgba($background-gray, 0.5);
-
     cursor: pointer;
   }
 
@@ -258,21 +257,6 @@
   }
 }
 /* Tooltip container */
-
 .tooltip {
-  position: relative;
-  display: inline-block;
-
-  .tooltiptext {
-    position: absolute;
-    z-index: 1;
-    bottom: -25%;
-    left: 50%;
-    margin-left: -60px;
-    width: 120px;
-    color: #fff;
-    padding: 2px 0;
-    font-size: 12px;
-    font-weight: bold;
-  }
+  color: white !important;
 }
