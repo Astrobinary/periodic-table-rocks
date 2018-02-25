@@ -169,7 +169,7 @@ class App extends Component {
   render() {
     return (
       <div onClick={this.clearClick} className="App">
-        <ReactTooltip offset={{top: 25}}  className="tooltip"/>
+        <ReactTooltip offset={{top: 26}} className="tooltip" effect="solid"/>
         <div className="table">
           {/* Row 1 */}
           <div className="row">
