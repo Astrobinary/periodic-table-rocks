@@ -48,6 +48,7 @@ class App extends Component {
     this.hoverEnter = this.hoverEnter.bind(this);
     this.hoverLeave = this.hoverLeave.bind(this);
     this.clickElement = this.clickElement.bind(this);
+    this.clickHistory = this.clickHistory.bind(this);
     this.clearClick = this.clearClick.bind(this);
     this.activeElement = this.activeElement.bind(this);
 
@@ -138,11 +139,32 @@ class App extends Component {
     let clickedElement = e.target.innerText.split("\n")[0];
     let selected = data[clickedElement];
     console.log(selected);
+    console.log(clickedElement);
     this.activeElement(selected);
 
     details.style.backgroundColor = bgColor;
     details.style.display = "inline-flex";
     settings.style.display = "none";
+
+  }
+
+  clickHistory(e) {
+    this.setState({disableHover: true});
+
+    const history = document.getElementById('history');
+    const bgColor = getComputedStyle(e.target).backgroundColor;
+
+    let clickedElement = e.target.innerText.split("\n")[0];
+
+
+    if(history.className == "selected"){
+      history.className=""
+    }else{
+      history.className="selected";
+    }
+  
+    
+    console.log(clickedElement);
 
   }
 
@@ -225,7 +247,7 @@ class App extends Component {
                   <div className="menu">
                     <span className="selected">Basic stats</span>
                     <span>Electrons and Ionisation</span>
-                    <span>History</span>
+                    <span id="history" onClick={this.clickHistory}>History</span>
                   </div>
 
                   <div className="stats">
