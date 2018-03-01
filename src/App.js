@@ -49,6 +49,7 @@ class App extends Component {
     this.hoverLeave = this.hoverLeave.bind(this);
     this.clickElement = this.clickElement.bind(this);
     this.clickHistory = this.clickHistory.bind(this);
+    this.clickElectron = this.clickElectron.bind(this);
     this.clearClick = this.clearClick.bind(this);
     this.activeElement = this.activeElement.bind(this);
 
@@ -168,6 +169,26 @@ class App extends Component {
 
   }
 
+  clickElectron(e) {
+    this.setState({disableHover: true});
+
+    const electron = document.getElementById('electron');
+    const bgColor = getComputedStyle(e.target).backgroundColor;
+
+    let clickedElement = e.target.innerText.split("\n")[0];
+
+
+    if(electron.className == "selected"){
+      electron.className=""
+    }else{
+      electron.className="selected";
+    }
+  
+    
+    console.log(clickedElement);
+
+  }
+
   //Click anywhere outside of an element to clear the onclick lock.
   clearClick(e) {
     let className = e.target.className;
@@ -246,7 +267,7 @@ class App extends Component {
 
                   <div className="menu">
                     <span className="selected">Basic stats</span>
-                    <span>Electrons and Ionisation</span>
+                    <span id="electrons" onClick={this.clickElectron}>Electrons and Ionisation</span>
                     <span id="history" onClick={this.clickHistory}>History</span>
                   </div>
 
