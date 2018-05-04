@@ -1,263 +1,262 @@
 @import "../config/globalcolors";
 
 .App {
-  text-align: center;
-  background-color: $background-gray;
-  height: 100vh;
-  overflow: hidden;
+	text-align: center;
+	background-color: $background-gray;
+	height: 100vh;
+	overflow: hidden;
 }
 
 .logo {
-  width: 225px;
-  margin-left: -32px;
-  margin-top: -4px;
+	width: 225px;
+	margin-left: -32px;
+	margin-top: -4px;
 }
 
 .table {
-  position: relative;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+	position: relative;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
 }
 
 .row {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: center;
-  max-width: 1300px;
-  margin: 0 auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	max-width: 1300px;
+	margin: 0 auto;
 }
 
 .top {
-  z-index: 100;
+	z-index: 100;
 }
 
 .info-box {
-  width: 690px;
-  margin: 0 10px;
-  height: 130px;
-  overflow: hidden;
+	width: 690px;
+	margin: 0 10px;
+	height: 130px;
+	overflow: hidden;
 
-  .element-badge {
-    width: 40%;
-    height: 100%;
-    position: relative;
-    display: inline-block;
+	.element-badge {
+		width: 40%;
+		height: 100%;
+		position: relative;
+		display: inline-block;
 
-    .atomic-display {
-      font-size: 117px;
-      font-weight: bold;
-      color: rgba($background-gray, 0.1);
-      position: absolute;
-      margin: 0 auto;
-      left: 0;
-      right: 0;
-    }
+		.atomic-display {
+			font-size: 117px;
+			font-weight: bold;
+			color: rgba($background-gray, 0.1);
+			position: absolute;
+			margin: 0 auto;
+			left: 0;
+			right: 0;
+		}
 
-    .name-display {
-      color: $background-gray;
-      font-weight: bold;
-      font-size: 35px;
-      text-align: center;
-      letter-spacing: 1px;
-      padding-top: 28px;
+		.name-display {
+			color: $background-gray;
+			font-weight: bold;
+			font-size: 35px;
+			text-align: center;
+			letter-spacing: 1px;
+			padding-top: 28px;
 
-      &:first-letter {
-        font-size: 50px;
-      }
-    }
+			&:first-letter {
+				font-size: 50px;
+			}
+		}
 
-    .type-display {
-      font-size: 21px;
-      margin-top: -10px;
-      text-transform: lowercase;
-      display: inline-block;
-    }
-  }
+		.type-display {
+			font-size: 21px;
+			margin-top: -10px;
+			text-transform: lowercase;
+			display: inline-block;
+		}
+	}
 
-  .info-badge {
-    width: 60%;
-    display: inline-block;
-    margin-top: 25px;
-    padding-top: 13px;
-    padding-right: 10px;
-    background-color: rgba(255, 255, 255, 0.3);
+	.info-badge {
+		width: 60%;
+		display: inline-block;
+		margin-top: 25px;
+		padding-top: 13px;
+		padding-right: 10px;
+		background-color: rgba(255, 255, 255, 0.3);
 
-    .stats {
-      .atomic-weight,
-      .boiling-point,
-      .melting-point {
-        display: inline-block;
+		.stats {
+			.atomic-weight,
+			.boiling-point,
+			.melting-point {
+				display: inline-block;
 
-        img {
-          height: 50px;
-          text-align: center;
-        }
+				img {
+					height: 50px;
+					text-align: center;
+				}
 
-        div {
-          width: 100px;
-          margin-top: 10px;
-          text-align: center;
-          color: $background-gray;
-        }
-      }
+				div {
+					width: 100px;
+					margin-top: 10px;
+					text-align: center;
+					color: $background-gray;
+				}
+			}
 
-      .density {
-        display: inline-block;
+			.density {
+				display: inline-block;
 
-        img {
-          height: 50px;
-          text-align: center;
-          padding-bottom: 5px;
-        }
+				img {
+					height: 50px;
+					text-align: center;
+					padding-bottom: 5px;
+				}
 
-        div {
-          width: 100px;
-        }
-      }
-    }
-  }
+				div {
+					width: 100px;
+				}
+			}
+		}
+	}
 }
 
 .details {
-  display: none;
-  background-color: $element-green;
+	display: none;
+	background-color: $element-green;
 }
 
 .menu {
-  position: absolute;
-  margin-top: -32px;
-  font-weight: bold;
-  font-size: 14px;
-  z-index: 100;
+	position: absolute;
+	margin-top: -32px;
+	font-weight: bold;
+	font-size: 14px;
+	z-index: 100;
 
-  span {
-    padding: 3px 20px;
-    color: $background-gray;
-    color: rgba($background-gray, 0.5);
-    cursor: pointer;
-  }
+	span {
+		padding: 3px 20px;
+		color: $background-gray;
+		color: rgba($background-gray, 0.5);
+		cursor: pointer;
+	}
 
-  .selected {
-    background-color: rgba(255, 255, 255, 0.3);
-    color: $background-gray;
-  }
+	.selected {
+		background-color: rgba(255, 255, 255, 0.3);
+		color: $background-gray;
+	}
 }
 
 .settings {
-  color: rgba(white, 0.5);
-  line-height: 232px;
-  font-style: italic;
-  letter-spacing: 1px;
+	color: rgba(white, 0.5);
+	line-height: 232px;
+	font-style: italic;
+	letter-spacing: 1px;
 }
 
 .element {
-  margin: 1px;
-  height: 70px;
-  width: 70px;
-  align-items: center;
-  justify-content: center;
-  color: $background-gray;
+	margin: 1px;
+	height: 70px;
+	width: 70px;
+	align-items: center;
+	justify-content: center;
+	color: $background-gray;
 
-  .atomic-number {
-    padding: 7px;
-    font-size: 18px;
-    background-color: none;
-    pointer-events: none;
-  }
+	.atomic-number {
+		padding: 7px;
+		font-size: 18px;
+		background-color: none;
+		pointer-events: none;
+	}
 
-  abbr {
-    font-weight: bold;
-    font-size: 34px;
-    line-height: 0.5;
-    background-color: inherit;
-    pointer-events: none;
-  }
+	abbr {
+		font-weight: bold;
+		font-size: 34px;
+		line-height: 0.5;
+		background-color: inherit;
+		pointer-events: none;
+	}
 }
 
 .blank {
-  //  background-color: transparent;
+	//  background-color: transparent;
 }
 
 .blank-half {
-  background-color: transparent;
-  height: 35px;
-  width: 35px;
+	background-color: transparent;
+	height: 35px;
+	width: 35px;
 }
 
 .nonmetal {
-  background-color: $element-green;
+	background-color: $element-green;
 
-  &:hover {
-    box-shadow: inset 0 0 0 5px lighten($element-green, 15%);
-    cursor: pointer;
-  }
+	&:hover {
+		box-shadow: inset 0 0 0 5px lighten($element-green, 15%);
+		cursor: pointer;
+	}
 }
 
 .alkaline-earth {
-  background-color: $element-yellow;
+	background-color: $element-yellow;
 
-  &:hover {
-    box-shadow: inset 0 0 0 5px lighten($element-yellow, 15%);
-    cursor: pointer;
-  }
+	&:hover {
+		box-shadow: inset 0 0 0 5px lighten($element-yellow, 15%);
+		cursor: pointer;
+	}
 }
 
 .alkali-metal {
-  background-color: $element-orange;
+	background-color: $element-orange;
 
-  &:hover {
-    box-shadow: inset 0 0 0 5px lighten($element-orange, 15%);
-    cursor: pointer;
-  }
+	&:hover {
+		box-shadow: inset 0 0 0 5px lighten($element-orange, 15%);
+		cursor: pointer;
+	}
 }
 
 .transition-metal {
-  background-color: $element-red;
+	background-color: $element-red;
 
-  &:hover {
-    box-shadow: inset 0 0 0 5px lighten($element-red, 15%);
-    cursor: pointer;
-  }
+	&:hover {
+		box-shadow: inset 0 0 0 5px lighten($element-red, 15%);
+		cursor: pointer;
+	}
 }
 
 .lanthanide {
-  background-color: $element-salmon;
+	background-color: $element-salmon;
 
-  &:hover {
-    box-shadow: inset 0 0 0 5px lighten($element-salmon, 15%);
-    cursor: pointer;
-  }
+	&:hover {
+		box-shadow: inset 0 0 0 5px lighten($element-salmon, 15%);
+		cursor: pointer;
+	}
 }
 
 .actinide {
-  background-color: $element-pink;
+	background-color: $element-pink;
 
-  &:hover {
-    box-shadow: inset 0 0 0 5px lighten($element-pink, 15%);
-    cursor: pointer;
-  }
+	&:hover {
+		box-shadow: inset 0 0 0 5px lighten($element-pink, 15%);
+		cursor: pointer;
+	}
 }
 
 .post-transition-metal {
-  background-color: $element-blue;
+	background-color: $element-blue;
 
-  &:hover {
-    box-shadow: inset 0 0 0 5px lighten($element-blue, 15%);
-    cursor: pointer;
-  }
+	&:hover {
+		box-shadow: inset 0 0 0 5px lighten($element-blue, 15%);
+		cursor: pointer;
+	}
 }
 
 .noble-gas {
-  background-color: $element-purple;
+	background-color: $element-purple;
 
-  &:hover {
-    box-shadow: inset 0 0 0 5px lighten($element-purple, 15%);
-    cursor: pointer;
-  }
+	&:hover {
+		box-shadow: inset 0 0 0 5px lighten($element-purple, 15%);
+		cursor: pointer;
+	}
 }
 /* Tooltip container */
 .tooltip {
-  color: white !important;
+	color: white !important;
 }
